@@ -182,29 +182,35 @@ col4.metric("Median 63d ADTV", format_dollar(filtered["63d ADTV"].median()))
 # --- Display table ---
 TABLE_COLS = ["Ticker", "Industry", "Last Price", "Volume", "5d ADTV", "21d ADTV", "63d ADTV", "1W Chg%", "1M Chg%", "3M Chg%"]
 
+
+display = filtered.copy()
+display["Volume"] = display["Volume"] / 1_000
+for col in PERIODS:
+    display[col] = display[col] / 1_000
+
 col_config = {
     "Last Price": st.column_config.NumberColumn(format="$%.3f"),
-    "Volume": st.column_config.NumberColumn(format="%d"),
-    "5d ADTV": st.column_config.NumberColumn(format="$%.0f"),
-    "21d ADTV": st.column_config.NumberColumn(format="$%.0f"),
-    "63d ADTV": st.column_config.NumberColumn(format="$%.0f"),
+    "Volume": st.column_config.NumberColumn(format="%,.1fk"),
+    "5d ADTV": st.column_config.NumberColumn(format="$%,.1fk"),
+    "21d ADTV": st.column_config.NumberColumn(format="$%,.1fk"),
+    "63d ADTV": st.column_config.NumberColumn(format="$%,.1fk"),
     "1W Chg%": st.column_config.NumberColumn(format="%.1f%%"),
     "1M Chg%": st.column_config.NumberColumn(format="%.1f%%"),
     "3M Chg%": st.column_config.NumberColumn(format="%.1f%%"),
 }
 
 st.dataframe(
-    filtered[TABLE_COLS],
+    display[TABLE_COLS],
     use_container_width=True,
     height=700,
     column_config=col_config,
 )
 
 # --- Download ---
-display = filtered.copy()
+csv_display = filtered.copy()
 for col in PERIODS:
-    display[col] = display[col].map(format_dollar)
+    csv_display[col] = csv_display[col].map(format_dollar)
 for col in CHANGE_PERIODS:
-    display[col] = display[col].map(lambda x: f"{x:+.1f}%" if pd.notna(x) else "—")
-csv_export = display[TABLE_COLS].to_csv(index=False)
+    csv_display[col] = csv_display[col].map(lambda x: f"{x:+.1f}%" if pd.notna(x) else "—")
+csv_export = csv_display[TABLE_COLS].to_csv(index=False)
 st.download_button("Download CSV", csv_export, file_name="liquidity_screener.csv", mime="text/csv")
