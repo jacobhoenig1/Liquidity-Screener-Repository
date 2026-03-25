@@ -1,0 +1,1190 @@
+{
+  "1AD.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "1AI.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "4DX.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "ACL.AX": {
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "ACR.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "ACW.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "ADO.AX": {
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "ADR.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "AFP.AX": {
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "AGN.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "AHC.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies"
+  },
+  "AHE.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "ALA.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "ALC.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "AN1.AX": {
+    "sector": "Consumer Defensive",
+    "industry": "Household & Personal Products"
+  },
+  "ANN.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies"
+  },
+  "ANR.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "ARX.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "AT1.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "ATH.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "ATX.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "AVE.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "AVH.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "AVR.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "AYA.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "BB1.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "BDX.AX": {
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "BIT.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "BMT.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "BOT.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "BP8.AX": {
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "CAN.AX": {
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "CBL.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "CC5.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "CGS.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "CHM.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "CMB.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "CMP.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "COH.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "COV.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "CQT.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "CSL.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "CSX.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "CTE.AX": {
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "CTQ.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "CU6.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "CUV.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "CVB.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "CYC.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Distribution"
+  },
+  "CYP.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "DOC.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "DVL.AX": {
+    "sector": "Technology",
+    "industry": "Scientific & Technical Instruments"
+  },
+  "DXB.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "EBO.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Distribution"
+  },
+  "EBR.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "ECS.AX": {
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "EMD.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "EMV.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "ENL.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "ENP.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "EPI.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "EPN.AX": {
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "EYE.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "FCG.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities"
+  },
+  "FPH.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies"
+  },
+  "FRE.AX": {
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - General"
+  },
+  "GLH.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "GSS.AX": {
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "GTG.AX": {
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "HIQ.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "HLS.AX": {
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "HMD.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "HXL.AX": {
+    "sector": "Financial Services",
+    "industry": "Shell Companies"
+  },
+  "IBX.AX": {
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "ICR.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "IDT.AX": {
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "IDX.AX": {
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "IIQ.AX": {
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "ILA.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "IMC.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "IME.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "IMM.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "IMR.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "IMU.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "IPD.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "IVG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "IVX.AX": {
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "IXC.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "LDX.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "LGP.AX": {
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "LTP.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "M7T.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "MAP.AX": {
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "MEM.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "MSB.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "MVF.AX": {
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "MVP.AX": {
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "MX1.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "MYX.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Distribution"
+  },
+  "NAN.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies"
+  },
+  "NC6.AX": {
+    "sector": "Consumer Cyclical",
+    "industry": "Textile Manufacturing"
+  },
+  "NEU.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "NOX.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "NSB.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "NTI.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "NUZ.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "NX1.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "NXN.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "NYR.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "OCA.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities"
+  },
+  "OCC.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "OIL.AX": {
+    "sector": "Technology",
+    "industry": "Scientific & Technical Instruments"
+  },
+  "ONE.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "OPT.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "OSL.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "OSX.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies"
+  },
+  "PAB.AX": {
+    "sector": "Unknown",
+    "industry": "Unknown"
+  },
+  "PAR.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "PCK.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "PEB.AX": {
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "PER.AX": {
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "PGC.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Distribution"
+  },
+  "PIQ.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "PKP.AX": {
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "PME.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "PNV.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "PTX.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "PYC.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "RAC.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "RAD.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "RCE.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "REG.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities"
+  },
+  "RGT.AX": {
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "RHC.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities"
+  },
+  "RHT.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "RHY.AX": {
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "RMD.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies"
+  },
+  "RNV.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "RYM.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities"
+  },
+  "SDI.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies"
+  },
+  "SHG.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "SHL.AX": {
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research"
+  },
+  "SIG.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Distribution"
+  },
+  "SLD.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "SNT.AX": {
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "SNZ.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities"
+  },
+  "SOM.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "SPL.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "TD1.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "TLX.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "TRI.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "TRJ.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies"
+  },
+  "TRP.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "TRU.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "TTX.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "UBI.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "UCM.AX": {
+    "sector": "Healthcare",
+    "industry": "Medical Devices"
+  },
+  "VBS.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "VFX.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "VFY.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "VHL.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "VIT.AX": {
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "VLS.AX": {
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic"
+  },
+  "ZLD.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "1TT.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "360.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "3DP.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "4DS.AX": {
+    "sector": "Technology",
+    "industry": "Semiconductors"
+  },
+  "5GN.AX": {
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "8CO.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "ACE.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "AD8.AX": {
+    "sector": "Technology",
+    "industry": "Electronic Components"
+  },
+  "ADS.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "AI1.AX": {
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "AIM.AX": {
+    "sector": "Communication Services",
+    "industry": "Entertainment"
+  },
+  "AMO.AX": {
+    "sector": "Technology",
+    "industry": "Electronics & Computer Distribution"
+  },
+  "APX.AX": {
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "AR9.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "ATA.AX": {
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "ATV.AX": {
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "AV1.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "AVA.AX": {
+    "sector": "Industrials",
+    "industry": "Security & Protection Services"
+  },
+  "AXE.AX": {
+    "sector": "Technology",
+    "industry": "Semiconductors"
+  },
+  "BCC.AX": {
+    "sector": "Technology",
+    "industry": "Communication Equipment"
+  },
+  "BEO.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "BGE.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "BLG.AX": {
+    "sector": "Technology",
+    "industry": "Semiconductor Equipment & Materials"
+  },
+  "BPG.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "BRN.AX": {
+    "sector": "Technology",
+    "industry": "Semiconductors"
+  },
+  "BVS.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "CAT.AX": {
+    "sector": "Technology",
+    "industry": "Scientific & Technical Instruments"
+  },
+  "CCR.AX": {
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "CDA.AX": {
+    "sector": "Technology",
+    "industry": "Scientific & Technical Instruments"
+  },
+  "CF1.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "CGO.AX": {
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "CML.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "COS.AX": {
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "CT1.AX": {
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "CXZ.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "CYB.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "DCC.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "DDR.AX": {
+    "sector": "Technology",
+    "industry": "Electronics & Computer Distribution"
+  },
+  "DTI.AX": {
+    "sector": "Industrials",
+    "industry": "Security & Protection Services"
+  },
+  "DTL.AX": {
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "DTZ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "DUB.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "DUG.AX": {
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "DWG.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "DXN.AX": {
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "EIQ.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "ELS.AX": {
+    "sector": "Technology",
+    "industry": "Communication Equipment"
+  },
+  "EOL.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "EPX.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "ERD.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "ESK.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "EXT.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "FCL.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "FCT.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "FLX.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "FND.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "GTI.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "GTK.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "HSN.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "HTG.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "HYD.AX": {
+    "sector": "Technology",
+    "industry": "Scientific & Technical Instruments"
+  },
+  "ICE.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "ID8.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "IFG.AX": {
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "IKE.AX": {
+    "sector": "Technology",
+    "industry": "Scientific & Technical Instruments"
+  },
+  "IOD.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "IOV.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "IRE.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "IRI.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "IS3.AX": {
+    "sector": "Communication Services",
+    "industry": "Advertising Agencies"
+  },
+  "ITS.AX": {
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "JAN.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "JCS.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "KNO.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "KYP.AX": {
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "LVE.AX": {
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information"
+  },
+  "MAQ.AX": {
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "MP1.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "NNG.AX": {
+    "sector": "Unknown",
+    "industry": "Unknown"
+  },
+  "NOR.AX": {
+    "sector": "Communication Services",
+    "industry": "Telecom Services"
+  },
+  "NOV.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "NVQ.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "NVU.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "NVX.AX": {
+    "sector": "Industrials",
+    "industry": "Electrical Equipment & Parts"
+  },
+  "NXL.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "NXT.AX": {
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "OAK.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "OCL.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "ODA.AX": {
+    "sector": "Industrials",
+    "industry": "Integrated Freight & Logistics"
+  },
+  "OLL.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "PFM.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "PHX.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "PIL.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "PKY.AX": {
+    "sector": "Healthcare",
+    "industry": "Health Information Services"
+  },
+  "PPS.AX": {
+    "sector": "Financial Services",
+    "industry": "Capital Markets"
+  },
+  "PRO.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "QOR.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "RCL.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "RDY.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "RKN.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "RKT.AX": {
+    "sector": "Technology",
+    "industry": "Computer Hardware"
+  },
+  "ROC.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "RWL.AX": {
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Water"
+  },
+  "SDR.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "SEN.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "SIS.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "SKO.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "SMN.AX": {
+    "sector": "Technology",
+    "industry": "Scientific & Technical Instruments"
+  },
+  "SNS.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "SOC.AX": {
+    "sector": "Technology",
+    "industry": "Information Technology Services"
+  },
+  "SP3.AX": {
+    "sector": "Industrials",
+    "industry": "Security & Protection Services"
+  },
+  "SPA.AX": {
+    "sector": "Communication Services",
+    "industry": "Telecom Services"
+  },
+  "SPX.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "STH.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "TAL.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "TNE.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "TZL.AX": {
+    "sector": "Industrials",
+    "industry": "Security & Protection Services"
+  },
+  "UBN.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "VGL.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "VIG.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "VNL.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "VR1.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "W2V.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "WBT.AX": {
+    "sector": "Technology",
+    "industry": "Semiconductors"
+  },
+  "WHK.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "WRK.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "WTC.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "X2M.AX": {
+    "sector": "Technology",
+    "industry": "Scientific & Technical Instruments"
+  },
+  "XF1.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "XPN.AX": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "XRO.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "YOJ.AX": {
+    "sector": "Technology",
+    "industry": "Software - Application"
+  },
+  "ZMM.AX": {
+    "sector": "Industrials",
+    "industry": "Electrical Equipment & Parts"
+  }
+}
