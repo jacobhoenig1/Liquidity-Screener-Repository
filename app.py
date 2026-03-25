@@ -88,11 +88,17 @@ def _extract_rows(raw, tickers: list[str], ticker_info: dict) -> list[dict]:
             last_price = df["Close"].iloc[-1]
             last_volume = df["Volume"].iloc[-1]
 
+            try:
+                market_cap = yf.Ticker(yahoo_tick).fast_info.get("marketCap", None)
+            except Exception:
+                market_cap = None
+
             info = ticker_info.get(yahoo_tick, {})
             row = {
                 "Ticker": asx_tick,
                 "Sector": info.get("sector", "Unknown"),
                 "Industry": info.get("industry", "Unknown"),
+                "Market Cap": market_cap,
                 "Last Price": last_price,
                 "Volume": last_volume,
             }
@@ -180,15 +186,17 @@ col3.metric("Median 21d ADTV", format_dollar(filtered["21d ADTV"].median()))
 col4.metric("Median 63d ADTV", format_dollar(filtered["63d ADTV"].median()))
 
 # --- Display table ---
-TABLE_COLS = ["Ticker", "Industry", "Last Price", "Volume", "5d ADTV", "21d ADTV", "63d ADTV", "1W Chg%", "1M Chg%", "3M Chg%"]
+TABLE_COLS = ["Ticker", "Industry", "Market Cap", "Last Price", "Volume", "5d ADTV", "21d ADTV", "63d ADTV", "1W Chg%", "1M Chg%", "3M Chg%"]
 
 
 display = filtered.copy()
+display["Market Cap"] = display["Market Cap"] / 1_000_000
 display["Volume"] = display["Volume"] / 1_000
 for col in PERIODS:
     display[col] = display[col] / 1_000
 
 col_config = {
+    "Market Cap": st.column_config.NumberColumn(format="$%,.1fm"),
     "Last Price": st.column_config.NumberColumn(format="$%.3f"),
     "Volume": st.column_config.NumberColumn(format="%,.1fk"),
     "5d ADTV": st.column_config.NumberColumn(format="$%,.1fk"),
