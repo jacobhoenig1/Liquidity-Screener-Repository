@@ -8,7 +8,7 @@ from datetime import datetime
 # ---------------------------------------------------------------------------
 # Config
 # ---------------------------------------------------------------------------
-st.set_page_config(page_title="Liquidity Screener", layout="wide")
+st.set_page_config(page_title="Liquidity Screener", page_icon="💧", layout="wide")
 
 APP_DIR = Path(__file__).parent
 CSV_PATH = APP_DIR / "Healthcare Cos.csv"
