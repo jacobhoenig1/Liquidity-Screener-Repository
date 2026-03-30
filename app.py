@@ -14,6 +14,7 @@ APP_DIR = Path(__file__).parent
 CSV_PATH = APP_DIR / "Healthcare Cos.csv"
 TICKER_INFO_PATH = APP_DIR / "ticker_info.json"
 PERIODS = {"5d ADTV": 5, "21d ADTV": 21, "63d ADTV": 63}
+CHANGE_PERIODS = {"1W % Change": 5, "1M % Change": 21, "3M % Change": 63}
 HISTORY_DAYS = 100  # calendar days to fetch (~70 trading days)
 
 
@@ -99,6 +100,12 @@ def _extract_rows(raw, tickers: list[str], ticker_info: dict) -> list[dict]:
             for label, days in PERIODS.items():
                 recent = traded_value.tail(days)
                 row[label] = recent.mean() if len(recent) > 0 else 0
+            for label, days in CHANGE_PERIODS.items():
+                if len(df) > days:
+                    prev_price = df["Close"].iloc[-(days + 1)]
+                    row[label] = ((last_price - prev_price) / prev_price) * 100
+                else:
+                    row[label] = None
             rows.append(row)
         except Exception:
             continue
@@ -178,13 +185,17 @@ display["Last Price"] = display["Last Price"].map(lambda x: f"${x:,.3f}" if pd.n
 display["Volume"] = display["Volume"].map(format_volume)
 for col in PERIODS:
     display[col] = display[col].map(format_dollar)
+for col in CHANGE_PERIODS:
+    display[col] = display[col].map(lambda x: f"{x:+.1f}%" if pd.notna(x) else "—")
+
+TABLE_COLS = ["Ticker", "Industry", "Last Price", "Volume", "1W % Change", "1M % Change", "3M % Change", "5d ADTV", "21d ADTV", "63d ADTV"]
 
 st.dataframe(
-    display[["Ticker", "Industry", "Last Price", "Volume", "5d ADTV", "21d ADTV", "63d ADTV"]],
+    display[TABLE_COLS],
     use_container_width=True,
     height=700,
 )
 
 # --- Download ---
-csv_export = filtered[["Ticker", "Industry", "Last Price", "Volume", "5d ADTV", "21d ADTV", "63d ADTV"]].to_csv(index=False)
+csv_export = filtered[TABLE_COLS].to_csv(index=False)
 st.download_button("Download CSV", csv_export, file_name="liquidity_screener.csv", mime="text/csv")
