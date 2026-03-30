@@ -8,21 +8,21 @@ from datetime import datetime
 # ---------------------------------------------------------------------------
 # Config
 # ---------------------------------------------------------------------------
-st.set_page_config(page_title="Liquidity Screener", page_icon="💧", layout="wide")
+st.set_page_config(page_title="Liquidity Screener", layout="wide")
 
 APP_DIR = Path(__file__).parent
 CSV_PATH = APP_DIR / "Healthcare Cos.csv"
 TICKER_INFO_PATH = APP_DIR / "ticker_info.json"
 PERIODS = {"5d ADTV": 5, "21d ADTV": 21, "63d ADTV": 63}
-CHANGE_PERIODS = {"1W Chg%": 5, "1M Chg%": 21, "3M Chg%": 63}
 HISTORY_DAYS = 100  # calendar days to fetch (~70 trading days)
 
 
 # ---------------------------------------------------------------------------
 # Data helpers
 # ---------------------------------------------------------------------------
-def load_tickers() -> pd.DataFrame:
-    return pd.read_csv(CSV_PATH)
+def load_tickers() -> list[str]:
+    df = pd.read_csv(CSV_PATH)
+    return df["Companies"].tolist()
 
 
 def load_ticker_info() -> dict:
@@ -88,29 +88,17 @@ def _extract_rows(raw, tickers: list[str], ticker_info: dict) -> list[dict]:
             last_price = df["Close"].iloc[-1]
             last_volume = df["Volume"].iloc[-1]
 
-            try:
-                market_cap = yf.Ticker(yahoo_tick).fast_info.get("marketCap", None)
-            except Exception:
-                market_cap = None
-
             info = ticker_info.get(yahoo_tick, {})
             row = {
                 "Ticker": asx_tick,
                 "Sector": info.get("sector", "Unknown"),
                 "Industry": info.get("industry", "Unknown"),
-                "Market Cap": market_cap,
                 "Last Price": last_price,
                 "Volume": last_volume,
             }
             for label, days in PERIODS.items():
                 recent = traded_value.tail(days)
                 row[label] = recent.mean() if len(recent) > 0 else 0
-            for label, days in CHANGE_PERIODS.items():
-                if len(df) > days:
-                    prev_close = df["Close"].iloc[-(days + 1)]
-                    row[label] = ((last_price - prev_close) / prev_close) * 100 if prev_close != 0 else None
-                else:
-                    row[label] = None
             rows.append(row)
         except Exception:
             continue
@@ -141,8 +129,7 @@ def fetch_data(tickers_yahoo: list[str], ticker_info: dict) -> pd.DataFrame:
 # ---------------------------------------------------------------------------
 st.title("Liquidity Screener")
 
-tickers_df = load_tickers()
-yahoo_tickers = tickers_df["Yahoo Ticker"].tolist()
+yahoo_tickers = load_tickers()
 ticker_info = load_ticker_info()
 
 with st.spinner(f"Fetching data for {len(yahoo_tickers)} stocks…"):
@@ -159,7 +146,7 @@ st.caption(f"Data refreshed: **{now}**  ·  {len(data)} stocks loaded  ·  Cache
 st.sidebar.header("Filters")
 search = st.sidebar.text_input("Search ticker", "").upper()
 
-sector_options = ["Healthcare", "Technology"]
+sector_options = ["Basic Materials", "Healthcare", "Technology"]
 selected_sector = st.sidebar.selectbox("Sector", sector_options)
 
 adtv_col = st.sidebar.selectbox("Filter ADTV by", list(PERIODS.keys()), index=1)
@@ -186,39 +173,18 @@ col3.metric("Median 21d ADTV", format_dollar(filtered["21d ADTV"].median()))
 col4.metric("Median 63d ADTV", format_dollar(filtered["63d ADTV"].median()))
 
 # --- Display table ---
-TABLE_COLS = ["Ticker", "Industry", "Market Cap", "Last Price", "Volume", "5d ADTV", "21d ADTV", "63d ADTV", "1W Chg%", "1M Chg%", "3M Chg%"]
-
-
 display = filtered.copy()
-display["Market Cap"] = display["Market Cap"] / 1_000_000
-display["Volume"] = display["Volume"] / 1_000
+display["Last Price"] = display["Last Price"].map(lambda x: f"${x:,.3f}" if pd.notna(x) else "—")
+display["Volume"] = display["Volume"].map(format_volume)
 for col in PERIODS:
-    display[col] = display[col] / 1_000
-
-col_config = {
-    "Market Cap": st.column_config.NumberColumn(format="$%,.1fm"),
-    "Last Price": st.column_config.NumberColumn(format="$%.3f"),
-    "Volume": st.column_config.NumberColumn(format="%,.1fk"),
-    "5d ADTV": st.column_config.NumberColumn(format="$%,.1fk"),
-    "21d ADTV": st.column_config.NumberColumn(format="$%,.1fk"),
-    "63d ADTV": st.column_config.NumberColumn(format="$%,.1fk"),
-    "1W Chg%": st.column_config.NumberColumn(format="%.1f%%"),
-    "1M Chg%": st.column_config.NumberColumn(format="%.1f%%"),
-    "3M Chg%": st.column_config.NumberColumn(format="%.1f%%"),
-}
+    display[col] = display[col].map(format_dollar)
 
 st.dataframe(
-    display[TABLE_COLS],
+    display[["Ticker", "Industry", "Last Price", "Volume", "5d ADTV", "21d ADTV", "63d ADTV"]],
     use_container_width=True,
     height=700,
-    column_config=col_config,
 )
 
 # --- Download ---
-csv_display = filtered.copy()
-for col in PERIODS:
-    csv_display[col] = csv_display[col].map(format_dollar)
-for col in CHANGE_PERIODS:
-    csv_display[col] = csv_display[col].map(lambda x: f"{x:+.1f}%" if pd.notna(x) else "—")
-csv_export = csv_display[TABLE_COLS].to_csv(index=False)
+csv_export = filtered[["Ticker", "Industry", "Last Price", "Volume", "5d ADTV", "21d ADTV", "63d ADTV"]].to_csv(index=False)
 st.download_button("Download CSV", csv_export, file_name="liquidity_screener.csv", mime="text/csv")

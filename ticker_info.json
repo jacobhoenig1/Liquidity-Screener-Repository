@@ -1186,5 +1186,3113 @@
   "ZMM.AX": {
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts"
+  },
+  "10X.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "1AE.AX": {
+    "sector": "Energy",
+    "industry": "Uranium"
+  },
+  "1MC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "29M.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "5EA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "6KA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "A11.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "A1G.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "A1M.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "A4N.AX": {
+    "sector": "Basic Materials",
+    "industry": "Aluminum"
+  },
+  "A8G.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "AA2.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "AAI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Aluminum"
+  },
+  "AAJ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "AAM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "AAR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "AAU.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "ABR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ABX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Aluminum"
+  },
+  "ACM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "ACP.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ACS.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ADC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ADG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "ADN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ADV.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "ADY.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AEM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Aluminum"
+  },
+  "AEU.AX": {
+    "sector": "Energy",
+    "industry": "Uranium"
+  },
+  "AEV.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AGC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "AGD.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "AGR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AGY.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AHK.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "AHN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AII.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AIS.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AIV.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AJX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "AKA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "AKM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Coking Coal"
+  },
+  "AKN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AKO.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ALB.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ALK.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "ALR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ALV.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "ALY.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "AM5.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AM7.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AMC.AX": {
+    "sector": "Consumer Cyclical",
+    "industry": "Packaging & Containers"
+  },
+  "AMD.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AMI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AMN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AMU.AX": {
+    "sector": "Energy",
+    "industry": "Uranium"
+  },
+  "ANO.AX": {
+    "sector": "Basic Materials",
+    "industry": "Chemicals"
+  },
+  "ANX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AOA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AON.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "APC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AQC.AX": {
+    "sector": "Energy",
+    "industry": "Thermal Coal"
+  },
+  "AQD.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AQI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "AQX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AR1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "AR3.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ARD.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "ARI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "ARL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ARN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ARR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ARU.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ARV.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AS1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "AS2.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "ASL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "ASM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ASN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ASQ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AT4.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ATC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "ATM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "ATR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ATT.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "AUC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "AUE.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AUG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AUQ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AUR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AUV.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "AUZ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AVL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AVM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Coking Coal"
+  },
+  "AVW.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "AW1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AWJ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "AX8.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AXL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AXN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AYM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "AYT.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AZ9.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AZI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "AZY.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "BAK.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "BC8.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "BCA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "BCB.AX": {
+    "sector": "Basic Materials",
+    "industry": "Coking Coal"
+  },
+  "BCI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Steel"
+  },
+  "BCK.AX": {
+    "sector": "Basic Materials",
+    "industry": "Steel"
+  },
+  "BCM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "BCN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "BDM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "BEZ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "BGD.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "BGL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "BGT.AX": {
+    "sector": "Healthcare",
+    "industry": "Biotechnology"
+  },
+  "BHL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "BHM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "BHP.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "BIM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "BIS.AX": {
+    "sector": "Basic Materials",
+    "industry": "Steel"
+  },
+  "BKB.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "BKT.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "BM1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "BM8.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "BMC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "BMG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "BML.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "BMM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "BMR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "BNR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "BNZ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "BOA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "BOC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "BPM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "BRE.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "BRI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Lumber & Wood Production"
+  },
+  "BRL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Coking Coal"
+  },
+  "BRX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "BRY.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "BSL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Steel"
+  },
+  "BSX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "BTR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "BUR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "BUS.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "BUX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "BVR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "C1X.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "C29.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "C7A.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CAA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Aluminum"
+  },
+  "CAE.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "CAV.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CAY.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CAZ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CBE.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CBY.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "CC9.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CCM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CDR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "CDT.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "CEL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "CG1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "CGR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CHN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CHR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CHRCB.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CHW.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CIA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Steel"
+  },
+  "CKA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Coking Coal"
+  },
+  "CLA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CLV.AX": {
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods"
+  },
+  "CLZ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CMD.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CMG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CMM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "CMO.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CMX.AX": {
+    "sector": "Industrials",
+    "industry": "Electrical Equipment & Parts"
+  },
+  "CNB.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "CNJ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "COB.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "COD.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "COY.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "CP8.AX": {
+    "sector": "Basic Materials",
+    "industry": "Agricultural Inputs"
+  },
+  "CPM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CPN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CPO.AX": {
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "CR1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CR3.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CR9.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CRB.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CRI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CRN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Coking Coal"
+  },
+  "CRR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CRS.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CSC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "CST.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CTM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CTN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "CTO.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "CUF.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CUL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CVR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "CVV.AX": {
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "CXL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "CXO.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CY5.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CYL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "CYM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "CZN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "CZR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "DAF.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "DAL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "DBO.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "DES.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "DGL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "DGR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "DKM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "DLI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "DM1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "DME.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "DMG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "DNL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "DPM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "DRE.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "DRR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "DRX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "DSM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "DTM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "DTR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "DUN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "DVP.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "DYM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "E25.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "E79.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "EE1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "EFE.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "EG1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "EGR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ELT.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ELV.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "EM2.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "EM3.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "EMA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "EMC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "EMH.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "EMN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "EMR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "EMU.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "EMUCA.AX": {
+    "sector": "Unknown",
+    "industry": "Unknown"
+  },
+  "ENR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ENT.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ENV.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ENX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "EQR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "EQX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Steel"
+  },
+  "ERE.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "ERL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "ERM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "ESR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ETM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "EUR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "EV1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "EV8.AX": {
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P"
+  },
+  "EVG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "EVN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "EVR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "FAL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "FAU.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "FEG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "FEX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Steel"
+  },
+  "FFM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "FG1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "FGH.AX": {
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "FGR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Chemicals"
+  },
+  "FHE.AX": {
+    "sector": "Utilities",
+    "industry": "Utilities - Renewable"
+  },
+  "FHS.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "FIN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "FL1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "FLG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "FMG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "FML.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "FNR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "FRB.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "FRS.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "FUL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "FUN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "FXG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "G11.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "G50.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "G6M.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "G88.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "GA8.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "GAL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "GBE.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "GBM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "GBR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "GCM.AX": {
+    "sector": "Utilities",
+    "industry": "Utilities - Renewable"
+  },
+  "GCR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "GDM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "GDR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "GED.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "GEN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "GES.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "GG1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "GG8.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "GGP.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "GGR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "GHM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "GIB.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "GL1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "GLN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "GMD.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "GML.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "GMN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "GNG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "GNM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "GPR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "GR8.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "GRE.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "GRL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "GRR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Steel"
+  },
+  "GRX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "GSM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "GSN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "GT1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "GT3.AX": {
+    "sector": "Industrials",
+    "industry": "Conglomerates"
+  },
+  "GTE.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "GUL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "GW1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "GWR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Steel"
+  },
+  "HAR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "HAS.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "HAV.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "HAW.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "HCH.AX": {
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "HFR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Agricultural Inputs"
+  },
+  "HGO.AX": {
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "HIO.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "HLX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "HMG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "HMX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "HOR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "HRE.AX": {
+    "sector": "Energy",
+    "industry": "Uranium"
+  },
+  "HRN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "HRZ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "HTM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "HVY.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "HWK.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "HZR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Chemicals"
+  },
+  "I88.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "IBR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ICL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "IDA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "IGO.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ILT.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "ILU.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "IMA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "IMD.AX": {
+    "sector": "Industrials",
+    "industry": "Farm & Heavy Construction Machinery"
+  },
+  "IMI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "IND.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "INF.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "INR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ION.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "IPT.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "IPX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "IR1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "IRD.AX": {
+    "sector": "Basic Materials",
+    "industry": "Steel"
+  },
+  "ITM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "IVR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "IXR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "JAL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Coking Coal"
+  },
+  "JAV.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "JGH.AX": {
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P"
+  },
+  "JHX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Building Materials"
+  },
+  "JLL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "JMS.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "JNO.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "KAI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "KAL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "KAU.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "KCC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "KCN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "KFM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "KGL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "KLI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "KM1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "KNB.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "KNG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "KNI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "KOB.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "KOR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "KP2.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "KRM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "KRR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "KSN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "KTA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "KZR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "L1M.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "LAT.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "LCL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "LCY.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "LDR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "LEG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "LEL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "LEX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "LGM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "LIB.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "LIN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "LIT.AX": {
+    "sector": "Industrials",
+    "industry": "Waste Management"
+  },
+  "LKE.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "LKY.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "LLM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "LM1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "LM8.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "LMG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "LML.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "LMS.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "LNQ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "LOT.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "LPM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "LRD.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "LRM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "LRV.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "LSA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "LSR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "LTR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "LU7.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "LYC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "M24.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "M2M.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "M2R.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "M3M.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "M4M.AX": {
+    "sector": "Basic Materials",
+    "industry": "Steel"
+  },
+  "M79.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "MAG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "MAH.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MAN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MAT.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "MAU.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MAUCA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MBG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "MBK.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "MC2.AX": {
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "MCO.AX": {
+    "sector": "Consumer Cyclical",
+    "industry": "Packaging & Containers"
+  },
+  "MDI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "MDX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "MEG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MEI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MEK.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "MEX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "MGA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MGL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MGT.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MGTNH.AX": {
+    "sector": "Unknown",
+    "industry": "Unknown"
+  },
+  "MGU.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MGX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Steel"
+  },
+  "MHK.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MHM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "MI6.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "MIN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MIO.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MKR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "ML8.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "MLG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MLS.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MLX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MM1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "MM8.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "MMA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "MMI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MML.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MNB.AX": {
+    "sector": "Basic Materials",
+    "industry": "Agricultural Inputs"
+  },
+  "MOH.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "MOM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MPK.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "MQR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MRC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MRD.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MRQ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MRR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MRZ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MSV.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MTC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "MTH.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MTL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MTM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "MVL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "MYE.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "NAG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "NC1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "NEM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "NES.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "NFL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "NFM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "NGX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "NH3.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "NIC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "NIM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "NME.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "NMG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "NMR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "NMT.AX": {
+    "sector": "Industrials",
+    "industry": "Waste Management"
+  },
+  "NNL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "NPM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "NRX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "NRZ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Agricultural Inputs"
+  },
+  "NSM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "NST.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "NTM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "NTU.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "NUF.AX": {
+    "sector": "Basic Materials",
+    "industry": "Agricultural Inputs"
+  },
+  "NVA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "NVO.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "NWM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "NXM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "NYM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "OB1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "OBM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "OCN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "OCT.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "OD6.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ODE.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "ODY.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "OKJ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "OLY.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "OM1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "OMH.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "OMX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "OR3.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ORA.AX": {
+    "sector": "Consumer Cyclical",
+    "industry": "Packaging & Containers"
+  },
+  "ORD.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "ORE.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "ORI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "ORN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ORP.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "OSM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "OZM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "OZZ.AX": {
+    "sector": "Unknown",
+    "industry": "Unknown"
+  },
+  "PAT.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "PBL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "PC2.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "PDI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "PEC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "PEX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "PFE.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "PGD.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "PGM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "PGO.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "PHO.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "PIM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "PKO.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "PL3.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "PL9.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "PLA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "PLC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "PLG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Steel"
+  },
+  "PLS.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "PMM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "PMT.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "PNM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "PNN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "PNR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "PNT.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "POD.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "POL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "PPG.AX": {
+    "sector": "Consumer Cyclical",
+    "industry": "Packaging & Containers"
+  },
+  "PPK.AX": {
+    "sector": "Industrials",
+    "industry": "Electrical Equipment & Parts"
+  },
+  "PPY.AX": {
+    "sector": "Consumer Cyclical",
+    "industry": "Packaging & Containers"
+  },
+  "PR1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "PRG.AX": {
+    "sector": "Industrials",
+    "industry": "Integrated Freight & Logistics"
+  },
+  "PRN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "PRU.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "PRX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "PSC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "PSL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "PTN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "PTR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "PUR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "PVT.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "PWN.AX": {
+    "sector": "Industrials",
+    "industry": "Pollution & Treatment Controls"
+  },
+  "PXX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "QEM.AX": {
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P"
+  },
+  "QGL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "QML.AX": {
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "QPM.AX": {
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P"
+  },
+  "QXR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "R8R.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "RAG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "RAN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "RAP.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "RAS.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "RAU.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "RB6.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "RBR.AX": {
+    "sector": "Industrials",
+    "industry": "Specialty Business Services"
+  },
+  "RBX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "RC1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "RCM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "RCR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "RDM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "RDN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "RDS.AX": {
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "REC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "REE.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "REZ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "RGL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "RHI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "RIE.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "RIL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "RIM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "RIO.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "RKB.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "RLC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "RLF.AX": {
+    "sector": "Basic Materials",
+    "industry": "Agricultural Inputs"
+  },
+  "RMI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "RML.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "RMS.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "RMX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "RND.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "RNU.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "RNX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "RON.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "RR1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "RRE.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "RRL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "RRR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "RSG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "RTG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "RTR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "RVT.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "RWD.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "RXL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "RXR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "S2R.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "S32.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "SBM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "SBR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "SCN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "SDV.AX": {
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "SER.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "SFM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "SFR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "SFX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "SGA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "SGM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Steel"
+  },
+  "SGQ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "SHN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "SKM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "SKY.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "SLA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "SLB.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "SLM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "SLS.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "SLZ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "SMI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "SMM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "SMR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Coking Coal"
+  },
+  "SMS.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "SMX.AX": {
+    "sector": "Unknown",
+    "industry": "Unknown"
+  },
+  "SNG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "SNM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "SNX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "SPD.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "SPN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals"
+  },
+  "SPQ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "SQX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "SRK.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "SRL.AX": {
+    "sector": "Industrials",
+    "industry": "Pollution & Treatment Controls"
+  },
+  "SRN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "SRR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "SRT.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "SRZ.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "SS1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "STK.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "STM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "STN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "SUH.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "SVG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "SVL.AX": {
+    "sector": "Consumer Defensive",
+    "industry": "Farm Products"
+  },
+  "SVM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "SVY.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "SX2.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "SYR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "T88.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "TAM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "TAR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "TAS.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "TAT.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "TBR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "TCG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "TEM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "TG1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "TG6.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "TGH.AX": {
+    "sector": "Basic Materials",
+    "industry": "Agricultural Inputs"
+  },
+  "TGM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "TGN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "THR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "TIO.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "TKM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "TLG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "TLM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "TMB.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "TMS.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "TMX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "TNC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "TOK.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "TON.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "TOR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "TR2.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "TRE.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "TRM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "TSK.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "TSL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "TSO.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "TSR.AX": {
+    "sector": "Unknown",
+    "industry": "Unknown"
+  },
+  "TTM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "TTT.AX": {
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery"
+  },
+  "TVN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "TXR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "TYX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "TZN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "UM1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "USC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "USL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Silver"
+  },
+  "USM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "VAR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "VAU.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "VBX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Aluminum"
+  },
+  "VHM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "VKA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "VMC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "VML.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "VMM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "VMS.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "VR8.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "VRC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "VRL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "VRX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "VSL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Steel"
+  },
+  "VTA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "VTM.AX": {
+    "sector": "Unknown",
+    "industry": "Unknown"
+  },
+  "VTX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "VUL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "VYS.AX": {
+    "sector": "Industrials",
+    "industry": "Engineering & Construction"
+  },
+  "WA1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Copper"
+  },
+  "WAF.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "WAK.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "WC1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "WC8.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "WCE.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "WCN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "WGN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Building Materials"
+  },
+  "WGR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "WGX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "WIA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "WIN.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "WMG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "WR1.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "WRX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "WSI.AX": {
+    "sector": "Industrials",
+    "industry": "Engineering & Construction"
+  },
+  "WSR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "WTM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "WWI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "WYX.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "XPD.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "XRA.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "YAR.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "YRL.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "YUG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ZAG.AX": {
+    "sector": "Basic Materials",
+    "industry": "Gold"
+  },
+  "ZEO.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ZIM.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining"
+  },
+  "ZMI.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ZNC.AX": {
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
+  },
+  "ZNO.AX": {
+    "sector": "Consumer Defensive",
+    "industry": "Household & Personal Products"
   }
 }

@@ -15,7 +15,7 @@ CSV_PATH = Path(__file__).parent / "Healthcare Cos.csv"
 OUT_PATH = Path(__file__).parent / "ticker_info.json"
 
 tickers_df = pd.read_csv(CSV_PATH)
-yahoo_tickers = tickers_df["Yahoo Ticker"].tolist()
+yahoo_tickers = tickers_df["Companies"].tolist()
 
 # Load existing data so we only fetch new tickers
 existing = {}
