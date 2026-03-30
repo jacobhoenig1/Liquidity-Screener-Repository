@@ -47,6 +47,15 @@ def format_dollar(val):
     return f"${val:,.0f}"
 
 
+def format_adtv(val):
+    """Format ADTV: $X.XM if >= $1M, $X.XK if < $1M."""
+    if pd.isna(val) or val == 0:
+        return "—"
+    if abs(val) >= 1_000_000:
+        return f"${val / 1_000_000:.1f}M"
+    return f"${val / 1_000:.1f}K"
+
+
 def format_volume(val):
     if pd.isna(val) or val == 0:
         return "—"
@@ -182,20 +191,21 @@ col4.metric("Median 63d ADTV", format_dollar(filtered["63d ADTV"].median()))
 # --- Display table ---
 TABLE_COLS = ["Ticker", "Industry", "Last Price", "Volume", "1W % Change", "1M % Change", "3M % Change", "5d ADTV", "21d ADTV", "63d ADTV"]
 
+styled = filtered[TABLE_COLS].style.format({
+    "Last Price": lambda x: f"${x:,.3f}" if pd.notna(x) else "—",
+    "Volume": lambda x: format_volume(x),
+    "1W % Change": lambda x: f"{x:+.1f}%" if pd.notna(x) else "—",
+    "1M % Change": lambda x: f"{x:+.1f}%" if pd.notna(x) else "—",
+    "3M % Change": lambda x: f"{x:+.1f}%" if pd.notna(x) else "—",
+    "5d ADTV": lambda x: format_adtv(x),
+    "21d ADTV": lambda x: format_adtv(x),
+    "63d ADTV": lambda x: format_adtv(x),
+})
+
 st.dataframe(
-    filtered[TABLE_COLS],
+    styled,
     use_container_width=True,
     height=700,
-    column_config={
-        "Last Price": st.column_config.NumberColumn(format="$%.3f"),
-        "Volume": st.column_config.NumberColumn(format="%d"),
-        "1W % Change": st.column_config.NumberColumn(format="%.1f%%"),
-        "1M % Change": st.column_config.NumberColumn(format="%.1f%%"),
-        "3M % Change": st.column_config.NumberColumn(format="%.1f%%"),
-        "5d ADTV": st.column_config.NumberColumn(format="$%d"),
-        "21d ADTV": st.column_config.NumberColumn(format="$%d"),
-        "63d ADTV": st.column_config.NumberColumn(format="$%d"),
-    },
 )
 
 # --- Download ---
