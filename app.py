@@ -98,15 +98,35 @@ def _extract_rows(raw, tickers: list[str], ticker_info: dict) -> list[dict]:
             last_price = df["Close"].iloc[-1]
             last_volume = df["Volume"].iloc[-1]
 
+            ticker_obj = yf.Ticker(yahoo_tick)
+
             try:
-                market_cap = yf.Ticker(yahoo_tick).fast_info.get("marketCap", None)
+                market_cap = ticker_obj.fast_info.get("marketCap", None)
             except Exception:
                 market_cap = None
 
+            total_cash = None
             try:
-                total_cash = yf.Ticker(yahoo_tick).info.get("totalCash", None)
+                total_cash = ticker_obj.info.get("totalCash", None)
             except Exception:
-                total_cash = None
+                pass
+
+            if total_cash is None:
+                try:
+                    bs = ticker_obj.quarterly_balance_sheet
+                    if bs is not None and not bs.empty:
+                        for key in (
+                            "Cash Cash Equivalents And Short Term Investments",
+                            "Cash And Cash Equivalents",
+                            "Cash",
+                        ):
+                            if key in bs.index:
+                                val = bs.loc[key].iloc[0]
+                                if pd.notna(val):
+                                    total_cash = float(val)
+                                    break
+                except Exception:
+                    pass
 
             info = ticker_info.get(yahoo_tick, {})
             row = {
