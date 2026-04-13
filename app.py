@@ -103,12 +103,18 @@ def _extract_rows(raw, tickers: list[str], ticker_info: dict) -> list[dict]:
             except Exception:
                 market_cap = None
 
+            try:
+                total_cash = yf.Ticker(yahoo_tick).info.get("totalCash", None)
+            except Exception:
+                total_cash = None
+
             info = ticker_info.get(yahoo_tick, {})
             row = {
                 "Ticker": asx_tick,
                 "Sector": info.get("sector", "Unknown"),
                 "Industry": info.get("industry", "Unknown"),
                 "Market Cap": market_cap,
+                "Cash": total_cash,
                 "Last Price": last_price,
                 "Volume": last_volume,
             }
@@ -195,10 +201,11 @@ col3.metric("Median 21d ADTV", format_dollar(filtered["21d ADTV"].median()))
 col4.metric("Median 63d ADTV", format_dollar(filtered["63d ADTV"].median()))
 
 # --- Display table ---
-TABLE_COLS = ["Ticker", "Industry", "Market Cap", "Last Price", "Volume", "1W % Change", "1M % Change", "3M % Change", "5d ADTV", "21d ADTV", "63d ADTV"]
+TABLE_COLS = ["Ticker", "Industry", "Market Cap", "Cash", "Last Price", "Volume", "1W % Change", "1M % Change", "3M % Change", "5d ADTV", "21d ADTV", "63d ADTV"]
 
 styled = filtered[TABLE_COLS].style.format({
     "Market Cap": lambda x: f"${x / 1_000_000:,.1f}m" if pd.notna(x) else "—",
+    "Cash": lambda x: f"${x / 1_000_000:,.1f}m" if pd.notna(x) else "—",
     "Last Price": lambda x: f"${x:,.3f}" if pd.notna(x) else "—",
     "Volume": lambda x: format_volume(x),
     "1W % Change": lambda x: f"{x:+.1f}%" if pd.notna(x) else "—",
