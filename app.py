@@ -8,7 +8,7 @@ from datetime import datetime
 # ---------------------------------------------------------------------------
 # Config
 # ---------------------------------------------------------------------------
-st.set_page_config(page_title="Liquidity Screener", layout="wide")
+st.set_page_config(page_title="Liquidity Screener", page_icon="💧", layout="wide")
 
 APP_DIR = Path(__file__).parent
 CSV_PATH = APP_DIR / "Healthcare Cos.csv"
@@ -98,11 +98,17 @@ def _extract_rows(raw, tickers: list[str], ticker_info: dict) -> list[dict]:
             last_price = df["Close"].iloc[-1]
             last_volume = df["Volume"].iloc[-1]
 
+            try:
+                market_cap = yf.Ticker(yahoo_tick).fast_info.get("marketCap", None)
+            except Exception:
+                market_cap = None
+
             info = ticker_info.get(yahoo_tick, {})
             row = {
                 "Ticker": asx_tick,
                 "Sector": info.get("sector", "Unknown"),
                 "Industry": info.get("industry", "Unknown"),
+                "Market Cap": market_cap,
                 "Last Price": last_price,
                 "Volume": last_volume,
             }
@@ -189,9 +195,10 @@ col3.metric("Median 21d ADTV", format_dollar(filtered["21d ADTV"].median()))
 col4.metric("Median 63d ADTV", format_dollar(filtered["63d ADTV"].median()))
 
 # --- Display table ---
-TABLE_COLS = ["Ticker", "Industry", "Last Price", "Volume", "1W % Change", "1M % Change", "3M % Change", "5d ADTV", "21d ADTV", "63d ADTV"]
+TABLE_COLS = ["Ticker", "Industry", "Market Cap", "Last Price", "Volume", "1W % Change", "1M % Change", "3M % Change", "5d ADTV", "21d ADTV", "63d ADTV"]
 
 styled = filtered[TABLE_COLS].style.format({
+    "Market Cap": lambda x: f"${x / 1_000_000:,.1f}m" if pd.notna(x) else "—",
     "Last Price": lambda x: f"${x:,.3f}" if pd.notna(x) else "—",
     "Volume": lambda x: format_volume(x),
     "1W % Change": lambda x: f"{x:+.1f}%" if pd.notna(x) else "—",
