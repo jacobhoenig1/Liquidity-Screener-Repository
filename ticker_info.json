@@ -1,4297 +1,5371 @@
 {
   "1AD.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "1AI.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "4DX.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "ACL.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "ACR.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "ACW.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "ADO.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "ADR.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "AFP.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "AGN.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "AHC.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Instruments & Supplies"
   },
   "AHE.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "ALA.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "ALC.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "AN1.AX": {
+    "name": "Unknown",
     "sector": "Consumer Defensive",
     "industry": "Household & Personal Products"
   },
   "ANN.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Instruments & Supplies"
   },
   "ANR.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "ARX.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "AT1.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "ATH.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "ATX.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "AVE.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "AVH.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "AVR.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "AYA.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "BB1.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "BDX.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "BIT.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "BMT.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "BOT.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "BP8.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "CAN.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "CBL.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "CC5.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "CGS.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "CHM.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "CMB.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "CMP.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "COH.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "COV.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "CQT.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "CSL.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "CSX.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "CTE.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "CTQ.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "CU6.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "CUV.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "CVB.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "CYC.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Distribution"
   },
   "CYP.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "DOC.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "DVL.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Scientific & Technical Instruments"
   },
   "DXB.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "EBO.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Distribution"
   },
   "EBR.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "ECS.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "EMD.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "EMV.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "ENL.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "ENP.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "EPI.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "EPN.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "EYE.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "FCG.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Care Facilities"
   },
   "FPH.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Instruments & Supplies"
   },
   "FRE.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - General"
   },
   "GLH.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "GSS.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "GTG.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "HIQ.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "HLS.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "HMD.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "HXL.AX": {
+    "name": "Unknown",
     "sector": "Financial Services",
     "industry": "Shell Companies"
   },
   "IBX.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "ICR.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "IDT.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "IDX.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "IIQ.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "ILA.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "IMC.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "IME.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "IMM.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "IMR.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "IMU.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "IPD.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "IVG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "IVX.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "IXC.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "LDX.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "LGP.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "LTP.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "M7T.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "MAP.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "MEM.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "MSB.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "MVF.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "MVP.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "MX1.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "MYX.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Distribution"
   },
   "NAN.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Instruments & Supplies"
   },
   "NC6.AX": {
+    "name": "Unknown",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing"
   },
   "NEU.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "NOX.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "NSB.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "NTI.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "NUZ.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "NX1.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "NXN.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "NYR.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "OCA.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Care Facilities"
   },
   "OCC.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "OIL.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Scientific & Technical Instruments"
   },
   "ONE.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "OPT.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "OSL.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "OSX.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Instruments & Supplies"
   },
   "PAB.AX": {
+    "name": "Unknown",
     "sector": "Unknown",
     "industry": "Unknown"
   },
   "PAR.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "PCK.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "PEB.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "PER.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "PGC.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Distribution"
   },
   "PIQ.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "PKP.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "PME.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "PNV.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "PTX.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "PYC.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "RAC.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "RAD.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "RCE.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "REG.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Care Facilities"
   },
   "RGT.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "RHC.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Care Facilities"
   },
   "RHT.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "RHY.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "RMD.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Instruments & Supplies"
   },
   "RNV.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "RYM.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Care Facilities"
   },
   "SDI.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Instruments & Supplies"
   },
   "SHG.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "SHL.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "SIG.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Distribution"
   },
   "SLD.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "SNT.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "SNZ.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Care Facilities"
   },
   "SOM.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "SPL.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "TD1.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "TLX.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "TRI.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "TRJ.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Instruments & Supplies"
   },
   "TRP.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "TRU.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "TTX.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "UBI.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "UCM.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "VBS.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "VFX.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "VFY.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "VHL.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "VIT.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "VLS.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "ZLD.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "1TT.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "360.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "3DP.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "4DS.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Semiconductors"
   },
   "5GN.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "8CO.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "ACE.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "AD8.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Electronic Components"
   },
   "ADS.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "AI1.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "AIM.AX": {
+    "name": "Unknown",
     "sector": "Communication Services",
     "industry": "Entertainment"
   },
   "AMO.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Electronics & Computer Distribution"
   },
   "APX.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "AR9.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "ATA.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "ATV.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "AV1.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "AVA.AX": {
+    "name": "Unknown",
     "sector": "Industrials",
     "industry": "Security & Protection Services"
   },
   "AXE.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Semiconductors"
   },
   "BCC.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Communication Equipment"
   },
   "BEO.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "BGE.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "BLG.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Semiconductor Equipment & Materials"
   },
   "BPG.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "BRN.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Semiconductors"
   },
   "BVS.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "CAT.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Scientific & Technical Instruments"
   },
   "CCR.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "CDA.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Scientific & Technical Instruments"
   },
   "CF1.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "CGO.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "CML.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "COS.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "CT1.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "CXZ.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "CYB.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "DCC.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "DDR.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Electronics & Computer Distribution"
   },
   "DTI.AX": {
+    "name": "Unknown",
     "sector": "Industrials",
     "industry": "Security & Protection Services"
   },
   "DTL.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "DTZ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "DUB.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "DUG.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "DWG.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "DXN.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "EIQ.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "ELS.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Communication Equipment"
   },
   "EOL.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "EPX.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "ERD.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "ESK.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "EXT.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "FCL.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "FCT.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "FLX.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "FND.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "GTI.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "GTK.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "HSN.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "HTG.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "HYD.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Scientific & Technical Instruments"
   },
   "ICE.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "ID8.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "IFG.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "IKE.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Scientific & Technical Instruments"
   },
   "IOD.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "IOV.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "IRE.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "IRI.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "IS3.AX": {
+    "name": "Unknown",
     "sector": "Communication Services",
     "industry": "Advertising Agencies"
   },
   "ITS.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "JAN.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "JCS.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "KNO.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "KYP.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "LVE.AX": {
+    "name": "Unknown",
     "sector": "Communication Services",
     "industry": "Internet Content & Information"
   },
   "MAQ.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "MP1.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "NNG.AX": {
+    "name": "Unknown",
     "sector": "Unknown",
     "industry": "Unknown"
   },
   "NOR.AX": {
+    "name": "Unknown",
     "sector": "Communication Services",
     "industry": "Telecom Services"
   },
   "NOV.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "NVQ.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "NVU.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "NVX.AX": {
+    "name": "Unknown",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts"
   },
   "NXL.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "NXT.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "OAK.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "OCL.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "ODA.AX": {
+    "name": "Unknown",
     "sector": "Industrials",
     "industry": "Integrated Freight & Logistics"
   },
   "OLL.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "PFM.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "PHX.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "PIL.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "PKY.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "PPS.AX": {
+    "name": "Unknown",
     "sector": "Financial Services",
     "industry": "Capital Markets"
   },
   "PRO.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "QOR.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "RCL.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "RDY.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "RKN.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "RKT.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Computer Hardware"
   },
   "ROC.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "RWL.AX": {
+    "name": "Unknown",
     "sector": "Utilities",
     "industry": "Utilities - Regulated Water"
   },
   "SDR.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "SEN.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "SIS.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "SKO.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "SMN.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Scientific & Technical Instruments"
   },
   "SNS.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "SOC.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "SP3.AX": {
+    "name": "Unknown",
     "sector": "Industrials",
     "industry": "Security & Protection Services"
   },
   "SPA.AX": {
+    "name": "Unknown",
     "sector": "Communication Services",
     "industry": "Telecom Services"
   },
   "SPX.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "STH.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "TAL.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "TNE.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "TZL.AX": {
+    "name": "Unknown",
     "sector": "Industrials",
     "industry": "Security & Protection Services"
   },
   "UBN.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "VGL.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "VIG.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "VNL.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "VR1.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "W2V.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "WBT.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Semiconductors"
   },
   "WHK.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "WRK.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "WTC.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "X2M.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Scientific & Technical Instruments"
   },
   "XF1.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "XPN.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "XRO.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "YOJ.AX": {
+    "name": "Unknown",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "ZMM.AX": {
+    "name": "Unknown",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts"
   },
   "10X.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "1AE.AX": {
+    "name": "Unknown",
     "sector": "Energy",
     "industry": "Uranium"
   },
   "1MC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "29M.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "5EA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "6KA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "A11.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "A1G.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "A1M.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "A4N.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Aluminum"
   },
   "A8G.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AA2.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AAI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Aluminum"
   },
   "AAJ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AAM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AAR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AAU.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ABR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ABX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Aluminum"
   },
   "ACM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "ACP.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ACS.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ADC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ADG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ADN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ADV.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ADY.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AEM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Aluminum"
   },
   "AEU.AX": {
+    "name": "Unknown",
     "sector": "Energy",
     "industry": "Uranium"
   },
   "AEV.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AGC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AGD.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "AGR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AGY.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AHK.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AHN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AII.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AIS.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AIV.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AJX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "AKA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AKM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Coking Coal"
   },
   "AKN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AKO.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ALB.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ALK.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ALR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ALV.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "ALY.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AM5.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AM7.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AMC.AX": {
+    "name": "Unknown",
     "sector": "Consumer Cyclical",
     "industry": "Packaging & Containers"
   },
   "AMD.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AMI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AMN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AMU.AX": {
+    "name": "Unknown",
     "sector": "Energy",
     "industry": "Uranium"
   },
   "ANO.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Chemicals"
   },
   "ANX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AOA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AON.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "APC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AQC.AX": {
+    "name": "Unknown",
     "sector": "Energy",
     "industry": "Thermal Coal"
   },
   "AQD.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AQI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "AQX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AR1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "AR3.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ARD.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "ARI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ARL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ARN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ARR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ARU.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ARV.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AS1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AS2.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "ASL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ASM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ASN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ASQ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AT4.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ATC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "ATM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ATR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ATT.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "AUC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AUE.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AUG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AUQ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AUR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AUV.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AUZ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AVL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AVM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Coking Coal"
   },
   "AVW.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "AW1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AWJ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AX8.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AXL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AXN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AYM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AYT.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AZ9.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AZI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AZY.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "BAK.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BC8.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "BCA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BCB.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Coking Coal"
   },
   "BCI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "BCK.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "BCM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "BCN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "BDM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "BEZ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "BGD.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "BGL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "BGT.AX": {
+    "name": "Unknown",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "BHL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "BHM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "BHP.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BIM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "BIS.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "BKB.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BKT.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BM1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "BM8.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BMC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BMG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BML.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BMM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BMR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "BNR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "BNZ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BOA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BOC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "BPM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "BRE.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "BRI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Lumber & Wood Production"
   },
   "BRL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Coking Coal"
   },
   "BRX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "BRY.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BSL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "BSX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BTR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "BUR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BUS.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BUX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BVR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "C1X.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "C29.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "C7A.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CAA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Aluminum"
   },
   "CAE.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "CAV.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CAY.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CAZ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CBE.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CBY.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "CC9.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CCM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CDR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "CDT.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "CEL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "CG1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "CGR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CHN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CHR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CHRCB.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CHW.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CIA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "CKA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Coking Coal"
   },
   "CLA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CLV.AX": {
+    "name": "Unknown",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods"
   },
   "CLZ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CMD.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CMG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CMM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "CMO.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CMX.AX": {
+    "name": "Unknown",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts"
   },
   "CNB.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "CNJ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "COB.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "COD.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "COY.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "CP8.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs"
   },
   "CPM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CPN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CPO.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "CR1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CR3.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CR9.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CRB.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CRI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CRN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Coking Coal"
   },
   "CRR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CRS.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CSC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "CST.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CTM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CTN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "CTO.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "CUF.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CUL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CVR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "CVV.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "CXL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "CXO.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CY5.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CYL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "CYM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "CZN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CZR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DAF.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "DAL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DBO.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "DES.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DGL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "DGR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DKM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DLI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "DM1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DME.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DMG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "DNL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "DPM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "DRE.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DRR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DRX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DSM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "DTM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DTR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "DUN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "DVP.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DYM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "E25.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "E79.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "EE1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EFE.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EG1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EGR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ELT.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ELV.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EM2.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EM3.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "EMA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EMC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EMH.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EMN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EMR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "EMU.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EMUCA.AX": {
+    "name": "Unknown",
     "sector": "Unknown",
     "industry": "Unknown"
   },
   "ENR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ENT.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ENV.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ENX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EQR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EQX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "ERE.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "ERL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "ERM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ESR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ETM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EUR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EV1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EV8.AX": {
+    "name": "Unknown",
     "sector": "Energy",
     "industry": "Oil & Gas E&P"
   },
   "EVG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EVN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "EVR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "FAL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "FAU.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "FEG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "FEX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "FFM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "FG1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "FGH.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "FGR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Chemicals"
   },
   "FHE.AX": {
+    "name": "Unknown",
     "sector": "Utilities",
     "industry": "Utilities - Renewable"
   },
   "FHS.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "FIN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "FL1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "FLG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "FMG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "FML.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "FNR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "FRB.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "FRS.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "FUL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "FUN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "FXG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "G11.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "G50.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "G6M.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "G88.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GA8.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GAL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GBE.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GBM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GBR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GCM.AX": {
+    "name": "Unknown",
     "sector": "Utilities",
     "industry": "Utilities - Renewable"
   },
   "GCR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "GDM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GDR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GED.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GEN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GES.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GG1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GG8.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GGP.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GGR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "GHM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GIB.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "GL1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GLN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GMD.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GML.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GMN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GNG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GNM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GPR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GR8.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GRE.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GRL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "GRR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "GRX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "GSM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GSN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "GT1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GT3.AX": {
+    "name": "Unknown",
     "sector": "Industrials",
     "industry": "Conglomerates"
   },
   "GTE.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GUL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GW1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GWR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "HAR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "HAS.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "HAV.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "HAW.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "HCH.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "HFR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs"
   },
   "HGO.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "HIO.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "HLX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "HMG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "HMX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "HOR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "HRE.AX": {
+    "name": "Unknown",
     "sector": "Energy",
     "industry": "Uranium"
   },
   "HRN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "HRZ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "HTM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "HVY.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "HWK.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "HZR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Chemicals"
   },
   "I88.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "IBR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ICL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "IDA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "IGO.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ILT.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "ILU.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "IMA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "IMD.AX": {
+    "name": "Unknown",
     "sector": "Industrials",
     "industry": "Farm & Heavy Construction Machinery"
   },
   "IMI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "IND.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "INF.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "INR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ION.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "IPT.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "IPX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "IR1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "IRD.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "ITM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "IVR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "IXR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "JAL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Coking Coal"
   },
   "JAV.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "JGH.AX": {
+    "name": "Unknown",
     "sector": "Energy",
     "industry": "Oil & Gas E&P"
   },
   "JHX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Building Materials"
   },
   "JLL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "JMS.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "JNO.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "KAI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "KAL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "KAU.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "KCC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "KCN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "KFM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "KGL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "KLI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "KM1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "KNB.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "KNG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "KNI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "KOB.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "KOR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "KP2.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "KRM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "KRR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "KSN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "KTA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "KZR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "L1M.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LAT.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "LCL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "LCY.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LDR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "LEG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LEL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LEX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LGM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LIB.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LIN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LIT.AX": {
+    "name": "Unknown",
     "sector": "Industrials",
     "industry": "Waste Management"
   },
   "LKE.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LKY.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "LLM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LM1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LM8.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LMG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LML.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LMS.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "LNQ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LOT.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LPM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LRD.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LRM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "LRV.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "LSA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LSR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "LTR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LU7.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LYC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "M24.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "M2M.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "M2R.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "M3M.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "M4M.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "M79.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "MAG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MAH.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MAN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MAT.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MAU.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MAUCA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MBG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MBK.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MC2.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "MCO.AX": {
+    "name": "Unknown",
     "sector": "Consumer Cyclical",
     "industry": "Packaging & Containers"
   },
   "MDI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MDX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MEG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MEI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MEK.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MEX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MGA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MGL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MGT.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MGTNH.AX": {
+    "name": "Unknown",
     "sector": "Unknown",
     "industry": "Unknown"
   },
   "MGU.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MGX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "MHK.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MHM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "MI6.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "MIN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MIO.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MKR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "ML8.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MLG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MLS.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MLX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MM1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "MM8.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "MMA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "MMI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MML.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MNB.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs"
   },
   "MOH.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "MOM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MPK.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "MQR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MRC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MRD.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MRQ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MRR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MRZ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MSV.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MTC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MTH.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MTL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MTM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MVL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MYE.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NAG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "NC1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NEM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "NES.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "NFL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "NFM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NGX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NH3.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NIC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NIM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NME.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "NMG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NMR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NMT.AX": {
+    "name": "Unknown",
     "sector": "Industrials",
     "industry": "Waste Management"
   },
   "NNL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NPM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "NRX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "NRZ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs"
   },
   "NSM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "NST.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "NTM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "NTU.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NUF.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs"
   },
   "NVA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NVO.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "NWM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "NXM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "NYM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "OB1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "OBM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "OCN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "OCT.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "OD6.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ODE.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "ODY.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "OKJ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "OLY.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "OM1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "OMH.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "OMX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "OR3.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ORA.AX": {
+    "name": "Unknown",
     "sector": "Consumer Cyclical",
     "industry": "Packaging & Containers"
   },
   "ORD.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ORE.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ORI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "ORN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ORP.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "OSM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "OZM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "OZZ.AX": {
+    "name": "Unknown",
     "sector": "Unknown",
     "industry": "Unknown"
   },
   "PAT.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PBL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PC2.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "PDI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "PEC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PEX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PFE.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PGD.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "PGM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "PGO.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "PHO.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PIM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PKO.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "PL3.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PL9.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PLA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PLC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PLG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "PLS.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PMM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PMT.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PNM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "PNN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PNR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "PNT.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "POD.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "POL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "PPG.AX": {
+    "name": "Unknown",
     "sector": "Consumer Cyclical",
     "industry": "Packaging & Containers"
   },
   "PPK.AX": {
+    "name": "Unknown",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts"
   },
   "PPY.AX": {
+    "name": "Unknown",
     "sector": "Consumer Cyclical",
     "industry": "Packaging & Containers"
   },
   "PR1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PRG.AX": {
+    "name": "Unknown",
     "sector": "Industrials",
     "industry": "Integrated Freight & Logistics"
   },
   "PRN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PRU.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "PRX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "PSC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PSL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PTN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "PTR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "PUR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PVT.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PWN.AX": {
+    "name": "Unknown",
     "sector": "Industrials",
     "industry": "Pollution & Treatment Controls"
   },
   "PXX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "QEM.AX": {
+    "name": "Unknown",
     "sector": "Energy",
     "industry": "Oil & Gas E&P"
   },
   "QGL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "QML.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "QPM.AX": {
+    "name": "Unknown",
     "sector": "Energy",
     "industry": "Oil & Gas E&P"
   },
   "QXR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "R8R.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RAG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RAN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "RAP.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "RAS.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RAU.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RB6.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "RBR.AX": {
+    "name": "Unknown",
     "sector": "Industrials",
     "industry": "Specialty Business Services"
   },
   "RBX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RC1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RCM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RCR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "RDM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RDN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "RDS.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "REC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "REE.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "REZ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RGL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RHI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RIE.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RIL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RIM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "RIO.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RKB.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RLC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RLF.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs"
   },
   "RMI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RML.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RMS.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RMX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RND.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RNU.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RNX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RON.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "RR1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RRE.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RRL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RRR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "RSG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RTG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RTR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RVT.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RWD.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RXL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RXR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "S2R.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "S32.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SBM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SBR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SCN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "SDV.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "SER.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SFM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SFR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "SFX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SGA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SGM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "SGQ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SHN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SKM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SKY.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SLA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "SLB.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SLM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "SLS.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SLZ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SMI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "SMM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SMR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Coking Coal"
   },
   "SMS.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SMX.AX": {
+    "name": "Unknown",
     "sector": "Unknown",
     "industry": "Unknown"
   },
   "SNG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SNM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SNX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SPD.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "SPN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "SPQ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SQX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SRK.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SRL.AX": {
+    "name": "Unknown",
     "sector": "Industrials",
     "industry": "Pollution & Treatment Controls"
   },
   "SRN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SRR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SRT.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SRZ.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SS1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "STK.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "STM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "STN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SUH.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SVG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SVL.AX": {
+    "name": "Unknown",
     "sector": "Consumer Defensive",
     "industry": "Farm Products"
   },
   "SVM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SVY.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SX2.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SYR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "T88.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "TAM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TAR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "TAS.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TAT.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TBR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TCG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TEM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TG1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "TG6.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "TGH.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs"
   },
   "TGM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TGN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "THR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TIO.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TKM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TLG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TLM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "TMB.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TMS.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TMX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TNC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "TOK.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "TON.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TOR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TR2.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "TRE.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TRM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TSK.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TSL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TSO.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TSR.AX": {
+    "name": "Unknown",
     "sector": "Unknown",
     "industry": "Unknown"
   },
   "TTM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TTT.AX": {
+    "name": "Unknown",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery"
   },
   "TVN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TXR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TYX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TZN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "UM1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "USC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "USL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Silver"
   },
   "USM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "VAR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VAU.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "VBX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Aluminum"
   },
   "VHM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VKA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "VMC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VML.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VMM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VMS.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VR8.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VRC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VRL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VRX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VSL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "VTA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "VTM.AX": {
+    "name": "Unknown",
     "sector": "Unknown",
     "industry": "Unknown"
   },
   "VTX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "VUL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VYS.AX": {
+    "name": "Unknown",
     "sector": "Industrials",
     "industry": "Engineering & Construction"
   },
   "WA1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "WAF.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "WAK.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "WC1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "WC8.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "WCE.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "WCN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "WGN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Building Materials"
   },
   "WGR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "WGX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "WIA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "WIN.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "WMG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "WR1.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "WRX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "WSI.AX": {
+    "name": "Unknown",
     "sector": "Industrials",
     "industry": "Engineering & Construction"
   },
   "WSR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "WTM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "WWI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "WYX.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "XPD.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "XRA.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "YAR.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "YRL.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "YUG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ZAG.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ZEO.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ZIM.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "ZMI.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ZNC.AX": {
+    "name": "Unknown",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ZNO.AX": {
+    "name": "Unknown",
     "sector": "Consumer Defensive",
     "industry": "Household & Personal Products"
   }
