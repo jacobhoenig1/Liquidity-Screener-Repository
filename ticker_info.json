@@ -1,4297 +1,5371 @@
 {
   "1AD.AX": {
+    "name": "AdAlta Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "1AI.AX": {
+    "name": "Algorae Pharmaceuticals Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "4DX.AX": {
+    "name": "4DMedical Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "ACL.AX": {
+    "name": "Australian Clinical Labs Limited",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "ACR.AX": {
+    "name": "Acrux Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "ACW.AX": {
+    "name": "Actinogen Medical Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "ADO.AX": {
+    "name": "AnteoTech Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "ADR.AX": {
+    "name": "Adherium Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "AFP.AX": {
+    "name": "AFT Pharmaceuticals Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "AGN.AX": {
+    "name": "Argenica Therapeutics Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "AHC.AX": {
+    "name": "Austco Healthcare Limited",
     "sector": "Healthcare",
     "industry": "Medical Instruments & Supplies"
   },
   "AHE.AX": {
+    "name": "Adheris Health Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "ALA.AX": {
+    "name": "Arovella Therapeutics Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "ALC.AX": {
+    "name": "Alcidion Group Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "AN1.AX": {
+    "name": "Anagenics Limited",
     "sector": "Consumer Defensive",
     "industry": "Household & Personal Products"
   },
   "ANN.AX": {
+    "name": "Ansell Limited",
     "sector": "Healthcare",
     "industry": "Medical Instruments & Supplies"
   },
   "ANR.AX": {
+    "name": "Anatara Lifesciences Ltd",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "ARX.AX": {
+    "name": "Aroa Biosurgery Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "AT1.AX": {
+    "name": "Atomo Diagnostics Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "ATH.AX": {
+    "name": "Alterity Therapeutics Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "ATX.AX": {
+    "name": "Amplia Therapeutics Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "AVE.AX": {
+    "name": "Avecho Biotechnology Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "AVH.AX": {
+    "name": "AVITA Medical, Inc.",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "AVR.AX": {
+    "name": "Anteris Technologies Global Corp.",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "AYA.AX": {
+    "name": "Artrya Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "BB1.AX": {
+    "name": "BLINKLAB FPO [BB1]",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "BDX.AX": {
+    "name": "BCAL Diagnostics Limited",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "BIT.AX": {
+    "name": "Biotron Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "BMT.AX": {
+    "name": "Beamtree Holdings Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "BOT.AX": {
+    "name": "Botanix Pharmaceuticals Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "BP8.AX": {
+    "name": "BPH Global Ltd",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "CAN.AX": {
+    "name": "Cann Group Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "CBL.AX": {
+    "name": "Control Bionics Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "CC5.AX": {
+    "name": "Clever Culture Systems Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "CGS.AX": {
+    "name": "Cogstate Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "CHM.AX": {
-    "sector": "Healthcare",
-    "industry": "Biotechnology"
+    "name": "Chimeric Therapeutics Limited",
+    "sector": "Unknown",
+    "industry": "Unknown"
   },
   "CMB.AX": {
+    "name": "Cambium Bio Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "CMP.AX": {
+    "name": "Compumedics Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "COH.AX": {
+    "name": "Cochlear Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "COV.AX": {
+    "name": "Cleo Diagnostics Ltd",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "CQT.AX": {
+    "name": "CONNEQT Health Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "CSL.AX": {
+    "name": "CSL Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "CSX.AX": {
+    "name": "CleanSpace Holdings Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "CTE.AX": {
+    "name": "Cryosite Limited",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "CTQ.AX": {
+    "name": "Careteq Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "CU6.AX": {
+    "name": "Clarity Pharmaceuticals Ltd",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "CUV.AX": {
+    "name": "Clinuvel Pharmaceuticals Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "CVB.AX": {
+    "name": "CurveBeam AI Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "CYC.AX": {
+    "name": "Cyclopharm Limited",
     "sector": "Healthcare",
     "industry": "Medical Distribution"
   },
   "CYP.AX": {
+    "name": "Cynata Therapeutics Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "DOC.AX": {
+    "name": "Doctor Care Anywhere Group PLC",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "DVL.AX": {
+    "name": "dorsaVi Ltd",
     "sector": "Technology",
     "industry": "Scientific & Technical Instruments"
   },
   "DXB.AX": {
+    "name": "Dimerix Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "EBO.AX": {
+    "name": "EBOS Group Limited",
     "sector": "Healthcare",
     "industry": "Medical Distribution"
   },
   "EBR.AX": {
+    "name": "EBR Systems, Inc.",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "ECS.AX": {
+    "name": "ECS Botanics Holdings Ltd",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "EMD.AX": {
+    "name": "Emyria Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "EMV.AX": {
+    "name": "EMVision Medical Devices Ltd",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "ENL.AX": {
+    "name": "Enlitic, Inc.",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "ENP.AX": {
+    "name": "Entropy Neurodynamics Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "EPI.AX": {
+    "name": "EPIMINDER FPO [EPI]",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "EPN.AX": {
+    "name": "Epsilon Healthcare Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "EYE.AX": {
+    "name": "Nova Eye Medical Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "FCG.AX": {
+    "name": "Freedom Care Group Holdings Limited",
     "sector": "Healthcare",
     "industry": "Medical Care Facilities"
   },
   "FPH.AX": {
+    "name": "Fisher & Paykel Healthcare Corporation Limited",
     "sector": "Healthcare",
     "industry": "Medical Instruments & Supplies"
   },
   "FRE.AX": {
+    "name": "Firebrick Pharma Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - General"
   },
   "GLH.AX": {
+    "name": "Global Health Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "GSS.AX": {
+    "name": "Genetic Signatures Limited",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "GTG.AX": {
+    "name": "Genetic Technologies Limited",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "HIQ.AX": {
+    "name": "HITIQ Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "HLS.AX": {
+    "name": "Healius Limited",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "HMD.AX": {
+    "name": "HeraMED Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "HXL.AX": {
-    "sector": "Financial Services",
-    "industry": "Shell Companies"
+    "name": "Hexima Limited",
+    "sector": "Unknown",
+    "industry": "Unknown"
   },
   "IBX.AX": {
+    "name": "Imagion Biosystems Limited",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "ICR.AX": {
+    "name": "Intelicare Holdings Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "IDT.AX": {
+    "name": "IDT Australia Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "IDX.AX": {
+    "name": "Integral Diagnostics Limited",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "IIQ.AX": {
+    "name": "INOVIQ Ltd",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "ILA.AX": {
+    "name": "Island Pharmaceuticals Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "IMC.AX": {
+    "name": "Immuron Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "IME.AX": {
+    "name": "ImExHS Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "IMM.AX": {
+    "name": "Immutep Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "IMR.AX": {
+    "name": "Imricor Medical Systems, Inc.",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "IMU.AX": {
+    "name": "Imugene Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "IPD.AX": {
+    "name": "ImpediMed Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "IVG.AX": {
+    "name": "INGRAPHITE FPO [IVG]",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "IVX.AX": {
+    "name": "Invion Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "IXC.AX": {
+    "name": "Invex Therapeutics Ltd",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "LDX.AX": {
+    "name": "Lumos Diagnostics Holdings Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "LGP.AX": {
+    "name": "Little Green Pharma Ltd",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "LTP.AX": {
+    "name": "LTR PHARMA FPO [LTP]",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "M7T.AX": {
+    "name": "Mach7 Technologies Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "MAP.AX": {
+    "name": "Microba Life Sciences Limited",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "MEM.AX": {
+    "name": "Memphasys Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "MSB.AX": {
+    "name": "Mesoblast Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "MVF.AX": {
+    "name": "Monash IVF Group Limited",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "MVP.AX": {
+    "name": "Medical Developments International Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "MX1.AX": {
+    "name": "Micro-X Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "MYX.AX": {
+    "name": "Mayne Pharma Group Limited",
     "sector": "Healthcare",
     "industry": "Medical Distribution"
   },
   "NAN.AX": {
+    "name": "Nanosonics Limited",
     "sector": "Healthcare",
     "industry": "Medical Instruments & Supplies"
   },
   "NC6.AX": {
+    "name": "Nanollose Limited",
     "sector": "Consumer Cyclical",
     "industry": "Textile Manufacturing"
   },
   "NEU.AX": {
+    "name": "Neuren Pharmaceuticals Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "NOX.AX": {
+    "name": "Noxopharm Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "NSB.AX": {
+    "name": "NeuroScientific Biopharmaceuticals Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "NTI.AX": {
+    "name": "Neurotech International Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "NUZ.AX": {
+    "name": "Neurizon Therapeutics Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "NX1.AX": {
+    "name": "Nexalis Therapeutics Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "NXN.AX": {
+    "name": "Nexsen Ltd",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "NYR.AX": {
+    "name": "Nyrada Inc.",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "OCA.AX": {
+    "name": "Oceania Healthcare Limited",
     "sector": "Healthcare",
     "industry": "Medical Care Facilities"
   },
   "OCC.AX": {
+    "name": "Orthocell Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "OIL.AX": {
+    "name": "Optiscan Imaging Limited",
     "sector": "Technology",
     "industry": "Scientific & Technical Instruments"
   },
   "ONE.AX": {
+    "name": "Oneview Healthcare PLC",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "OPT.AX": {
+    "name": "Opthea Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "OSL.AX": {
+    "name": "OncoSil Medical Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "OSX.AX": {
+    "name": "Osteopore Limited",
     "sector": "Healthcare",
     "industry": "Medical Instruments & Supplies"
   },
   "PAB.AX": {
+    "name": "Patrys Limited",
     "sector": "Unknown",
     "industry": "Unknown"
   },
   "PAR.AX": {
+    "name": "Paradigm Biopharmaceuticals Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "PCK.AX": {
+    "name": "PainChek Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "PEB.AX": {
+    "name": "Pacific Edge Limited",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "PER.AX": {
+    "name": "PERCHERON FPO [PER]",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "PGC.AX": {
+    "name": "Paragon Care Limited",
     "sector": "Healthcare",
     "industry": "Medical Distribution"
   },
   "PIQ.AX": {
+    "name": "Proteomics International Laboratories Ltd",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "PKP.AX": {
+    "name": "PEAK FPO [PKP]",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "PME.AX": {
+    "name": "Pro Medicus Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "PNV.AX": {
+    "name": "PolyNovo Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "PTX.AX": {
+    "name": "Prescient Therapeutics Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "PYC.AX": {
+    "name": "PYC Therapeutics Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "RAC.AX": {
+    "name": "Racura Oncology Ltd",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "RAD.AX": {
+    "name": "Radiopharm Theranostics Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "RCE.AX": {
+    "name": "Recce Pharmaceuticals Ltd",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "REG.AX": {
+    "name": "Regis Healthcare Limited",
     "sector": "Healthcare",
     "industry": "Medical Care Facilities"
   },
   "RGT.AX": {
+    "name": "Argent BioPharma Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "RHC.AX": {
+    "name": "Ramsay Health Care Limited",
     "sector": "Healthcare",
     "industry": "Medical Care Facilities"
   },
   "RHT.AX": {
+    "name": "Resonance Health Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "RHY.AX": {
+    "name": "Rhythm Biosciences Limited",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "RMD.AX": {
+    "name": "ResMed Inc.",
     "sector": "Healthcare",
     "industry": "Medical Instruments & Supplies"
   },
   "RNV.AX": {
+    "name": "RENERVE FPO [RNV]",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "RYM.AX": {
+    "name": "RYM FPO NZX [RYM]",
     "sector": "Healthcare",
     "industry": "Medical Care Facilities"
   },
   "SDI.AX": {
+    "name": "SDI Limited",
     "sector": "Healthcare",
     "industry": "Medical Instruments & Supplies"
   },
   "SHG.AX": {
+    "name": "Singular Health Group Ltd",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "SHL.AX": {
+    "name": "Sonic Healthcare Limited",
     "sector": "Healthcare",
     "industry": "Diagnostics & Research"
   },
   "SIG.AX": {
+    "name": "Sigma Healthcare Limited",
     "sector": "Healthcare",
     "industry": "Medical Distribution"
   },
   "SLD.AX": {
+    "name": "Saluda Medical, Inc.",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "SNT.AX": {
+    "name": "Syntara Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "SNZ.AX": {
+    "name": "Summerset Group Holdings Limited",
     "sector": "Healthcare",
     "industry": "Medical Care Facilities"
   },
   "SOM.AX": {
+    "name": "SomnoMed Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "SPL.AX": {
+    "name": "Starpharma Holdings Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "TD1.AX": {
+    "name": "TALi Digital Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "TLX.AX": {
+    "name": "Telix Pharmaceuticals Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "TRI.AX": {
+    "name": "TrivarX Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "TRJ.AX": {
+    "name": "Trajan Group Holdings Limited",
     "sector": "Healthcare",
     "industry": "Medical Instruments & Supplies"
   },
   "TRP.AX": {
+    "name": "Tissue Repair Ltd",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "TRU.AX": {
+    "name": "TruScreen Group Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "TTX.AX": {
+    "name": "Tetratherix Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "UBI.AX": {
+    "name": "Universal Biosensors, Inc.",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "UCM.AX": {
+    "name": "Uscom Limited",
     "sector": "Healthcare",
     "industry": "Medical Devices"
   },
   "VBS.AX": {
+    "name": "Vectus Biosystems Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "VFX.AX": {
+    "name": "VISIONFLEX FPO [VFX]",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "VFY.AX": {
+    "name": "VITRAFY FPO [VFY]",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "VHL.AX": {
+    "name": "Vitasora Health Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "VIT.AX": {
+    "name": "Vitura Health Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "VLS.AX": {
+    "name": "Vita Life Sciences Limited",
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - Specialty & Generic"
   },
   "ZLD.AX": {
+    "name": "Zelira Therapeutics Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "1TT.AX": {
+    "name": "Thrive Tribe Technologies Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "360.AX": {
+    "name": "Life360, Inc.",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "3DP.AX": {
+    "name": "Pointerra Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "4DS.AX": {
+    "name": "4DS Memory Limited",
     "sector": "Technology",
     "industry": "Semiconductors"
   },
   "5GN.AX": {
+    "name": "5G Networks Limited",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "8CO.AX": {
+    "name": "8common Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "ACE.AX": {
+    "name": "Acusensus Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "AD8.AX": {
+    "name": "Audinate Group Limited",
     "sector": "Technology",
     "industry": "Electronic Components"
   },
   "ADS.AX": {
+    "name": "Adslot Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "AI1.AX": {
+    "name": "Adisyn Ltd",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "AIM.AX": {
+    "name": "Ai-Media Technologies Limited",
     "sector": "Communication Services",
     "industry": "Entertainment"
   },
   "AMO.AX": {
+    "name": "Ambertech Limited",
     "sector": "Technology",
     "industry": "Electronics & Computer Distribution"
   },
   "APX.AX": {
+    "name": "Appen Limited",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "AR9.AX": {
+    "name": "archTIS Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "ATA.AX": {
+    "name": "Atturra Limited",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "ATV.AX": {
+    "name": "ActivePort Group Ltd",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "AV1.AX": {
+    "name": "Adveritas Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "AVA.AX": {
+    "name": "AVA Risk Group Limited",
     "sector": "Industrials",
     "industry": "Security & Protection Services"
   },
   "AXE.AX": {
+    "name": "Archer Materials Limited",
     "sector": "Technology",
     "industry": "Semiconductors"
   },
   "BCC.AX": {
+    "name": "Beam Communications Holdings Limited",
     "sector": "Technology",
     "industry": "Communication Equipment"
   },
   "BEO.AX": {
+    "name": "BEONIC FPO [BEO]",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "BGE.AX": {
+    "name": "Bridge SaaS Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "BLG.AX": {
+    "name": "BluGlass Limited",
     "sector": "Technology",
     "industry": "Semiconductor Equipment & Materials"
   },
   "BPG.AX": {
+    "name": "Black Pearl Group Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "BRN.AX": {
+    "name": "BrainChip Holdings Ltd",
     "sector": "Technology",
     "industry": "Semiconductors"
   },
   "BVS.AX": {
+    "name": "Bravura Solutions Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "CAT.AX": {
+    "name": "Catapult Sports Ltd",
     "sector": "Technology",
     "industry": "Scientific & Technical Instruments"
   },
   "CCR.AX": {
+    "name": "Credit Clear Limited",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "CDA.AX": {
+    "name": "Codan Limited",
     "sector": "Technology",
     "industry": "Scientific & Technical Instruments"
   },
   "CF1.AX": {
+    "name": "Complii FinTech Solutions Ltd",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "CGO.AX": {
+    "name": "CPT Global Limited",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "CML.AX": {
+    "name": "CONNECTMIN FPO [CML]",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "COS.AX": {
+    "name": "COSOL Limited",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "CT1.AX": {
+    "name": "Constellation Technologies Limited",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "CXZ.AX": {
+    "name": "Connexion Mobility Ltd",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "CYB.AX": {
+    "name": "AUCYBER FPO [CYB]",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "DCC.AX": {
+    "name": "DigitalX Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "DDR.AX": {
+    "name": "Dicker Data Limited",
     "sector": "Technology",
     "industry": "Electronics & Computer Distribution"
   },
   "DTI.AX": {
+    "name": "DTI Group Limited",
     "sector": "Industrials",
     "industry": "Security & Protection Services"
   },
   "DTL.AX": {
+    "name": "Data#3 Limited",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "DTZ.AX": {
+    "name": "Dotz Nano Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "DUB.AX": {
+    "name": "Dubber Corporation Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "DUG.AX": {
+    "name": "DUG Technology Ltd",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "DWG.AX": {
+    "name": "DATAWORKS FPO [DWG]",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "DXN.AX": {
+    "name": "DXN Limited",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "EIQ.AX": {
+    "name": "Echo IQ Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "ELS.AX": {
+    "name": "Elsight Limited",
     "sector": "Technology",
     "industry": "Communication Equipment"
   },
   "EOL.AX": {
+    "name": "Energy One Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "EPX.AX": {
+    "name": "EPX Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "ERD.AX": {
+    "name": "EROAD Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "ESK.AX": {
+    "name": "Etherstack plc",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "EXT.AX": {
+    "name": "Excite Technology Services Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "FCL.AX": {
+    "name": "FINEOS Corporation Holdings plc",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "FCT.AX": {
+    "name": "FirstWave Cloud Technology Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "FLX.AX": {
+    "name": "Felix Group Holdings Ltd",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "FND.AX": {
+    "name": "Findi Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "GTI.AX": {
+    "name": "Gratifii Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "GTK.AX": {
+    "name": "Gentrack Group Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "HSN.AX": {
+    "name": "Hansen Technologies Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "HTG.AX": {
+    "name": "Harvest Technology Group Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "HYD.AX": {
+    "name": "Hydrix Limited",
     "sector": "Technology",
     "industry": "Scientific & Technical Instruments"
   },
   "ICE.AX": {
+    "name": "icetana Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "ID8.AX": {
+    "name": "Identitii Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "IFG.AX": {
+    "name": "InFocus Group Holdings Limited",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "IKE.AX": {
+    "name": "ikeGPS Group Limited",
     "sector": "Technology",
     "industry": "Scientific & Technical Instruments"
   },
   "IOD.AX": {
+    "name": "IODM Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "IOV.AX": {
+    "name": "Ion Video Ltd",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "IRE.AX": {
+    "name": "Iress Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "IRI.AX": {
+    "name": "Integrated Research Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "IS3.AX": {
+    "name": "I Synergy Group Limited",
     "sector": "Communication Services",
     "industry": "Advertising Agencies"
   },
   "ITS.AX": {
+    "name": "Infotrust Ltd",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "JAN.AX": {
+    "name": "Janison Education Group Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "JCS.AX": {
+    "name": "JCurve Solutions Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "KNO.AX": {
+    "name": "Knosys Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "KYP.AX": {
+    "name": "Kinatico Ltd",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "LVE.AX": {
+    "name": "Love Group Global Ltd",
     "sector": "Communication Services",
     "industry": "Internet Content & Information"
   },
   "MAQ.AX": {
+    "name": "Macquarie Technology Group Limited",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "MP1.AX": {
+    "name": "Megaport Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "NNG.AX": {
+    "name": "Nexion Group Ltd",
     "sector": "Unknown",
     "industry": "Unknown"
   },
   "NOR.AX": {
+    "name": "Norwood Systems Limited",
     "sector": "Communication Services",
     "industry": "Telecom Services"
   },
   "NOV.AX": {
+    "name": "Novatti Group Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "NVQ.AX": {
+    "name": "NoviqTech Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "NVU.AX": {
+    "name": "Nanoveu Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "NVX.AX": {
+    "name": "NOVONIX Limited",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts"
   },
   "NXL.AX": {
+    "name": "Nuix Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "NXT.AX": {
+    "name": "NEXTDC Limited",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "OAK.AX": {
+    "name": "Oakridge International Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "OCL.AX": {
+    "name": "Objective Corporation Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "ODA.AX": {
+    "name": "Orcoda Limited",
     "sector": "Industrials",
     "industry": "Integrated Freight & Logistics"
   },
   "OLL.AX": {
+    "name": "OpenLearning Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "PFM.AX": {
+    "name": "Platformo Ltd",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "PHX.AX": {
+    "name": "PharmX Technologies Limited",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "PIL.AX": {
+    "name": "Peppermint Innovation Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "PKY.AX": {
+    "name": "Pathkey.AI Ltd",
     "sector": "Healthcare",
     "industry": "Health Information Services"
   },
   "PPS.AX": {
+    "name": "Praemium Limited",
     "sector": "Financial Services",
     "industry": "Capital Markets"
   },
   "PRO.AX": {
+    "name": "Prophecy International Holdings Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "QOR.AX": {
+    "name": "Qoria Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "RCL.AX": {
+    "name": "ReadCloud Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "RDY.AX": {
+    "name": "ReadyTech Holdings Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "RKN.AX": {
+    "name": "Reckon Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "RKT.AX": {
+    "name": "RocketDNA Ltd.",
     "sector": "Technology",
     "industry": "Computer Hardware"
   },
   "ROC.AX": {
+    "name": "RocketBoots Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "RWL.AX": {
+    "name": "Rubicon Water Limited",
     "sector": "Utilities",
     "industry": "Utilities - Regulated Water"
   },
   "SDR.AX": {
+    "name": "SiteMinder Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "SEN.AX": {
+    "name": "Senetas Corporation Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "SIS.AX": {
+    "name": "Simble Solutions Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "SKO.AX": {
+    "name": "Serko Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "SMN.AX": {
+    "name": "Structural Monitoring Systems Plc",
     "sector": "Technology",
     "industry": "Scientific & Technical Instruments"
   },
   "SNS.AX": {
+    "name": "SenSen Networks Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "SOC.AX": {
+    "name": "SOCO Corporation Ltd",
     "sector": "Technology",
     "industry": "Information Technology Services"
   },
   "SP3.AX": {
+    "name": "Spectur Limited",
     "sector": "Industrials",
     "industry": "Security & Protection Services"
   },
   "SPA.AX": {
+    "name": "Spacetalk Limited",
     "sector": "Communication Services",
     "industry": "Telecom Services"
   },
   "SPX.AX": {
+    "name": "Spenda Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "STH.AX": {
+    "name": "STEPCHANGE FPO [STH]",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "TAL.AX": {
+    "name": "Talius Group Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "TNE.AX": {
+    "name": "Technology One Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "TZL.AX": {
+    "name": "TZ Limited",
     "sector": "Industrials",
     "industry": "Security & Protection Services"
   },
   "UBN.AX": {
+    "name": "Urbanise.com Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "VGL.AX": {
+    "name": "Vista Group International Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "VIG.AX": {
+    "name": "Victor Group Holdings Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "VNL.AX": {
+    "name": "Vinyl Group Ltd",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "VR1.AX": {
+    "name": "Vection Technologies Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "W2V.AX": {
+    "name": "Way 2 Vat Ltd",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "WBT.AX": {
+    "name": "Weebit Nano Limited",
     "sector": "Technology",
     "industry": "Semiconductors"
   },
   "WHK.AX": {
+    "name": "WhiteHawk Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "WRK.AX": {
+    "name": "Wrkr Ltd",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "WTC.AX": {
+    "name": "WiseTech Global Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "X2M.AX": {
+    "name": "X2M Connect Limited",
     "sector": "Technology",
     "industry": "Scientific & Technical Instruments"
   },
   "XF1.AX": {
+    "name": "Xref Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "XPN.AX": {
+    "name": "XPON Technologies Group Limited",
     "sector": "Technology",
     "industry": "Software - Infrastructure"
   },
   "XRO.AX": {
+    "name": "Xero Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "YOJ.AX": {
+    "name": "Yojee Limited",
     "sector": "Technology",
     "industry": "Software - Application"
   },
   "ZMM.AX": {
+    "name": "Zimi Limited",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts"
   },
   "10X.AX": {
+    "name": "EXULTANT FPO [10X]",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "1AE.AX": {
+    "name": "Aurora Energy Metals Limited",
     "sector": "Energy",
     "industry": "Uranium"
   },
   "1MC.AX": {
+    "name": "Morella Corporation Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "29M.AX": {
+    "name": "29Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "5EA.AX": {
+    "name": "5E Advanced Materials, Inc.",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "6KA.AX": {
+    "name": "6K Additive Inc",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "A11.AX": {
+    "name": "Atlantic Lithium Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "A1G.AX": {
+    "name": "African Gold Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "A1M.AX": {
+    "name": "AIC Mines Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "A4N.AX": {
+    "name": "Alpha HPA Limited",
     "sector": "Basic Materials",
     "industry": "Aluminum"
   },
   "A8G.AX": {
+    "name": "Australasian Metals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AA2.AX": {
+    "name": "ARIANARES CDI 1:10 [AA2]",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AAI.AX": {
+    "name": "Alcoa Corporation",
     "sector": "Basic Materials",
     "industry": "Aluminum"
   },
   "AAJ.AX": {
+    "name": "Aruma Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AAM.AX": {
+    "name": "AuMEGA Metals Ltd",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AAR.AX": {
+    "name": "Astral Resources NL",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AAU.AX": {
+    "name": "Antilles Gold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ABR.AX": {
+    "name": "Albright Metals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ABX.AX": {
+    "name": "ABx Group Limited",
     "sector": "Basic Materials",
     "industry": "Aluminum"
   },
   "ACM.AX": {
+    "name": "Australian Critical Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "ACP.AX": {
+    "name": "Audalia Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ACS.AX": {
+    "name": "Accent Resources NL",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ADC.AX": {
+    "name": "ACDC Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ADG.AX": {
+    "name": "Adelong Gold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ADN.AX": {
+    "name": "Andromeda Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ADV.AX": {
+    "name": "Ardiden Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ADY.AX": {
+    "name": "Admiralty Resources NL",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AEM.AX": {
+    "name": "Advanced Energy Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Aluminum"
   },
   "AEU.AX": {
+    "name": "Atomic Eagle Limited",
     "sector": "Energy",
     "industry": "Uranium"
   },
   "AEV.AX": {
+    "name": "Avenira Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AGC.AX": {
+    "name": "Australian Gold and Copper Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AGD.AX": {
+    "name": "Austral Gold Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "AGR.AX": {
+    "name": "Aguia Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AGY.AX": {
+    "name": "Argosy Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AHK.AX": {
+    "name": "Ark Mines Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AHN.AX": {
+    "name": "Athena Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AII.AX": {
+    "name": "Almonty Industries Inc.",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AIS.AX": {
+    "name": "Aeris Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AIV.AX": {
+    "name": "ActivEX Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AJX.AX": {
+    "name": "Alexium International Group Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "AKA.AX": {
+    "name": "Aureka Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AKM.AX": {
+    "name": "Aspire Mining Limited",
     "sector": "Basic Materials",
     "industry": "Coking Coal"
   },
   "AKN.AX": {
+    "name": "AuKing Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AKO.AX": {
+    "name": "AKORA Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ALB.AX": {
+    "name": "Albion Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ALK.AX": {
+    "name": "Alkane Resources Ltd",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ALR.AX": {
+    "name": "Altair Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ALV.AX": {
+    "name": "Alvo Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "ALY.AX": {
+    "name": "Alchemy Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AM5.AX": {
+    "name": "Antares Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AM7.AX": {
+    "name": "Arcadia Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AMC.AX": {
+    "name": "Amcor plc",
     "sector": "Consumer Cyclical",
     "industry": "Packaging & Containers"
   },
   "AMD.AX": {
+    "name": "Arrow Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AMI.AX": {
+    "name": "Aurelia Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AMN.AX": {
+    "name": "Agrimin Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AMU.AX": {
+    "name": "American Uranium Limited",
     "sector": "Energy",
     "industry": "Uranium"
   },
   "ANO.AX": {
+    "name": "Advance ZincTek Limited",
     "sector": "Basic Materials",
     "industry": "Chemicals"
   },
   "ANX.AX": {
+    "name": "Anax Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AOA.AX": {
+    "name": "Ausmon Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AON.AX": {
+    "name": "Apollo Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "APC.AX": {
+    "name": "APC Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AQC.AX": {
+    "name": "Australian Pacific Coal Limited",
     "sector": "Energy",
     "industry": "Thermal Coal"
   },
   "AQD.AX": {
+    "name": "AusQuest Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AQI.AX": {
+    "name": "Alicanto Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "AQX.AX": {
+    "name": "Alice Queen Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AR1.AX": {
+    "name": "Austral Resources Australia Ltd",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "AR3.AX": {
+    "name": "Australian Rare Earths Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ARD.AX": {
+    "name": "Argent Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "ARI.AX": {
+    "name": "Arika Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ARL.AX": {
+    "name": "Ardea Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ARN.AX": {
+    "name": "Aldoro Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ARR.AX": {
+    "name": "American Rare Earths Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ARU.AX": {
+    "name": "Arafura Rare Earths Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ARV.AX": {
+    "name": "Artemis Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AS1.AX": {
+    "name": "Asara Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AS2.AX": {
+    "name": "Askari Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "ASL.AX": {
+    "name": "Andean Silver Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ASM.AX": {
+    "name": "Australian Strategic Materials Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ASN.AX": {
+    "name": "Anson Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ASQ.AX": {
+    "name": "Australian Silica Quartz Group Ltd.",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AT4.AX": {
+    "name": "AMERICANTU FPO [AT4]",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ATC.AX": {
+    "name": "Altech Batteries Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "ATM.AX": {
+    "name": "PT Aneka Tambang Tbk",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ATR.AX": {
+    "name": "Astron Corporation Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ATT.AX": {
+    "name": "Altitude Minerals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "AUC.AX": {
+    "name": "Ausgold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AUE.AX": {
+    "name": "Aurum Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AUG.AX": {
+    "name": "Augustus Minerals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AUQ.AX": {
+    "name": "Alara Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AUR.AX": {
+    "name": "Auris Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AUV.AX": {
+    "name": "Auravelle Metals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AUZ.AX": {
+    "name": "Australian Mines Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AVL.AX": {
+    "name": "Australian Vanadium Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AVM.AX": {
+    "name": "Advance Metals Limited",
     "sector": "Basic Materials",
     "industry": "Coking Coal"
   },
   "AVW.AX": {
+    "name": "Avira Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "AW1.AX": {
+    "name": "American West Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AWJ.AX": {
+    "name": "Auric Mining Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AX8.AX": {
+    "name": "Accelerate Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AXL.AX": {
+    "name": "AXEL REE FPO [AXL]",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AXN.AX": {
+    "name": "Alliance Nickel Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AYM.AX": {
+    "name": "Australia United Mining Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "AYT.AX": {
+    "name": "Austin Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AZ9.AX": {
+    "name": "Asian Battery Metals PLC",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AZI.AX": {
+    "name": "Altamin Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "AZY.AX": {
+    "name": "Antipa Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "BAK.AX": {
+    "name": "BARKLYRARE FPO [BAK]",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BC8.AX": {
+    "name": "Black Cat Syndicate Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "BCA.AX": {
+    "name": "Black Canyon Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BCB.AX": {
+    "name": "Bowen Coking Coal Limited",
     "sector": "Basic Materials",
     "industry": "Coking Coal"
   },
   "BCI.AX": {
+    "name": "BCI Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "BCK.AX": {
+    "name": "Brockman Mining Limited",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "BCM.AX": {
+    "name": "Brazilian Critical Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "BCN.AX": {
+    "name": "Beacon Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "BDM.AX": {
+    "name": "Burgundy Diamond Mines Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "BEZ.AX": {
+    "name": "Besra Gold Inc.",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "BGD.AX": {
+    "name": "Barton Gold Holdings Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "BGL.AX": {
+    "name": "Bellevue Gold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "BGT.AX": {
+    "name": "Bio-Gene Technology Limited",
     "sector": "Healthcare",
     "industry": "Biotechnology"
   },
   "BHL.AX": {
+    "name": "BLACKHORSE FPO [BHL]",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "BHM.AX": {
+    "name": "BHMINESLTD FPO [BHM]",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "BHP.AX": {
+    "name": "BHP Group Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BIM.AX": {
+    "name": "Bindi Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "BIS.AX": {
+    "name": "Bisalloy Steel Group Limited",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "BKB.AX": {
+    "name": "Black Bear Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BKT.AX": {
+    "name": "Black Rock Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BM1.AX": {
+    "name": "Ballard Mining Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "BM8.AX": {
+    "name": "Battery Age Minerals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BMC.AX": {
+    "name": "BMC Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BMG.AX": {
+    "name": "WA Gold Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BML.AX": {
+    "name": "Boab Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BMM.AX": {
+    "name": "Bayan Mining and Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BMR.AX": {
+    "name": "Ballymore Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "BNR.AX": {
+    "name": "Bulletin Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "BNZ.AX": {
+    "name": "Benz Mining Corp.",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BOA.AX": {
+    "name": "BOA Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BOC.AX": {
+    "name": "Bougainville Copper Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "BPM.AX": {
+    "name": "BPM Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "BRE.AX": {
+    "name": "BRZLINRARE FPO [BRE]",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "BRI.AX": {
+    "name": "Big River Industries Limited",
     "sector": "Basic Materials",
     "industry": "Lumber & Wood Production"
   },
   "BRL.AX": {
+    "name": "Bathurst Resources Limited",
     "sector": "Basic Materials",
     "industry": "Coking Coal"
   },
   "BRX.AX": {
+    "name": "Belararox Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "BRY.AX": {
+    "name": "Barys Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BSL.AX": {
+    "name": "BlueScope Steel Limited",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "BSX.AX": {
+    "name": "Blackstone Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BTR.AX": {
+    "name": "Brightstar Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "BUR.AX": {
+    "name": "Burley Minerals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BUS.AX": {
+    "name": "Bubalus Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BUX.AX": {
+    "name": "Buxton Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "BVR.AX": {
+    "name": "Bellavista Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "C1X.AX": {
+    "name": "Cosmos Exploration Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "C29.AX": {
+    "name": "C29 Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "C7A.AX": {
+    "name": "Clara Resources Australia Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CAA.AX": {
+    "name": "Capral Limited",
     "sector": "Basic Materials",
     "industry": "Aluminum"
   },
   "CAE.AX": {
+    "name": "Cannindah Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "CAV.AX": {
+    "name": "Carnavale Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CAY.AX": {
+    "name": "Canyon Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CAZ.AX": {
+    "name": "Cazaly Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CBE.AX": {
+    "name": "Cobre Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CBY.AX": {
+    "name": "Canterbury Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "CC9.AX": {
+    "name": "Chariot Resources Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CCM.AX": {
+    "name": "Cadoux Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CDR.AX": {
+    "name": "Codrus Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "CDT.AX": {
+    "name": "Castle Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "CEL.AX": {
+    "name": "Challenger Gold Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "CG1.AX": {
+    "name": "Carbonxt Group Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "CGR.AX": {
+    "name": "CGN Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CHN.AX": {
+    "name": "Chalice Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CHR.AX": {
+    "name": "Charger Metals NL",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CHRCB.AX": {
+    "name": "CHARGER CTG [CHRCB]",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CHW.AX": {
+    "name": "Chilwa Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CIA.AX": {
+    "name": "Champion Iron Limited",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "CKA.AX": {
+    "name": "Cokal Limited",
     "sector": "Basic Materials",
     "industry": "Coking Coal"
   },
   "CLA.AX": {
+    "name": "Celsius Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CLV.AX": {
+    "name": "Clover Corporation Limited",
     "sector": "Consumer Defensive",
     "industry": "Packaged Foods"
   },
   "CLZ.AX": {
+    "name": "Classic Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CMD.AX": {
+    "name": "Cassius Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CMG.AX": {
+    "name": "Critical Minerals Group Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CMM.AX": {
+    "name": "Capricorn Metals Ltd",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "CMO.AX": {
+    "name": "Cosmo Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CMX.AX": {
+    "name": "ChemX Materials Limited",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts"
   },
   "CNB.AX": {
+    "name": "Carnaby Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "CNJ.AX": {
+    "name": "Conico Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "COB.AX": {
+    "name": "Cobalt Blue Holdings Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "COD.AX": {
+    "name": "Coda Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "COY.AX": {
+    "name": "Coppermoly Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "CP8.AX": {
+    "name": "Canadian Phosphate Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs"
   },
   "CPM.AX": {
+    "name": "Cooper Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CPN.AX": {
+    "name": "Caspin Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CPO.AX": {
+    "name": "Culpeo Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "CR1.AX": {
+    "name": "Constellation Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CR3.AX": {
+    "name": "Core Energy Minerals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CR9.AX": {
+    "name": "Corella Resources Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CRB.AX": {
+    "name": "Carbine Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CRI.AX": {
+    "name": "Critica Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CRN.AX": {
+    "name": "Coronado Global Resources Inc.",
     "sector": "Basic Materials",
     "industry": "Coking Coal"
   },
   "CRR.AX": {
+    "name": "Critical Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CRS.AX": {
+    "name": "Caprice Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CSC.AX": {
+    "name": "CAPSTONE CDI 1:1 [CSC]",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "CST.AX": {
+    "name": "Castile Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CTM.AX": {
+    "name": "Centaurus Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CTN.AX": {
+    "name": "Catalina Resources Ltd",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "CTO.AX": {
+    "name": "Citigold Corporation Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "CUF.AX": {
+    "name": "CuFe Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CUL.AX": {
+    "name": "Cullen Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CVR.AX": {
+    "name": "Cavalier Resources Ltd",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "CVV.AX": {
+    "name": "Caravel Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "CXL.AX": {
+    "name": "Calix Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "CXO.AX": {
+    "name": "Core Lithium Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CY5.AX": {
+    "name": "Cygnus Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CYL.AX": {
+    "name": "Catalyst Metals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "CYM.AX": {
+    "name": "Cyprium Metals Limited",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "CZN.AX": {
+    "name": "Corazon Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "CZR.AX": {
+    "name": "CZR Resources Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DAF.AX": {
+    "name": "Discovery Alaska Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "DAL.AX": {
+    "name": "Dalaroo Metals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DBO.AX": {
+    "name": "Diablo Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "DES.AX": {
+    "name": "DeSoto Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DGL.AX": {
+    "name": "DGL Group Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "DGR.AX": {
+    "name": "DGR Global Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DKM.AX": {
+    "name": "Duketon Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DLI.AX": {
+    "name": "Delta Lithium Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "DM1.AX": {
+    "name": "Desert Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DME.AX": {
+    "name": "Dome Gold Mines Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DMG.AX": {
+    "name": "Dragon Mountain Gold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "DNL.AX": {
+    "name": "Dyno Nobel Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "DPM.AX": {
+    "name": "DPMMETALS CDI 1:1 [DPM]",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "DRE.AX": {
+    "name": "Dreadnought Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DRR.AX": {
+    "name": "Deterra Royalties Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DRX.AX": {
+    "name": "Diatreme Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DSM.AX": {
+    "name": "DESERT MIN FPO [DSM]",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "DTM.AX": {
+    "name": "Dart Mining NL",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DTR.AX": {
+    "name": "Dateline Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "DUN.AX": {
+    "name": "Dundas Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "DVP.AX": {
+    "name": "Develop Global Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "DYM.AX": {
+    "name": "Dynamic Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "E25.AX": {
+    "name": "Element 25 Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "E79.AX": {
+    "name": "E79 Gold Mines Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "EE1.AX": {
+    "name": "EARTHSENE FPO [EE1]",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EFE.AX": {
+    "name": "Eastern Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EG1.AX": {
+    "name": "Evergold Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EGR.AX": {
+    "name": "EcoGraf Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ELT.AX": {
+    "name": "Elementos Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ELV.AX": {
+    "name": "Elevra Lithium Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EM2.AX": {
+    "name": "Eagle Mountain Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EM3.AX": {
+    "name": "EMC Gold Corporation",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "EMA.AX": {
+    "name": "Eminence Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EMC.AX": {
+    "name": "Everest Metals Corporation Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EMH.AX": {
+    "name": "European Metals Holdings Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EMN.AX": {
+    "name": "Euro Manganese Inc.",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EMR.AX": {
+    "name": "Emerald Resources NL",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "EMU.AX": {
+    "name": "Emu NL",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EMUCA.AX": {
+    "name": "Emu NL",
     "sector": "Unknown",
     "industry": "Unknown"
   },
   "ENR.AX": {
+    "name": "Encounter Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ENT.AX": {
+    "name": "Enterprise Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ENV.AX": {
+    "name": "Enova Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ENX.AX": {
+    "name": "Enegex Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EQR.AX": {
+    "name": "EQ Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EQX.AX": {
+    "name": "Equatorial Resources Limited",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "ERE.AX": {
+    "name": "EUROPE RES FPO [ERE]",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "ERL.AX": {
+    "name": "Empire Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "ERM.AX": {
+    "name": "Emmerson Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ESR.AX": {
+    "name": "Estrella Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ETM.AX": {
+    "name": "Energy Transition Minerals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EUR.AX": {
+    "name": "European Lithium Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EV1.AX": {
+    "name": "Evolution Energy Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EV8.AX": {
+    "name": "EVERLAST FPO [EV8]",
     "sector": "Energy",
     "industry": "Oil & Gas E&P"
   },
   "EVG.AX": {
+    "name": "Evion Group NL",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "EVN.AX": {
+    "name": "Evolution Mining Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "EVR.AX": {
+    "name": "EV Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "FAL.AX": {
+    "name": "Falcon Metals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "FAU.AX": {
+    "name": "First Au Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "FEG.AX": {
+    "name": "Far East Gold Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "FEX.AX": {
+    "name": "Fenix Resources Limited",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "FFM.AX": {
+    "name": "FireFly Metals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "FG1.AX": {
+    "name": "Flynn Gold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "FGH.AX": {
+    "name": "Foresta Group Holding Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "FGR.AX": {
+    "name": "First Graphene Limited",
     "sector": "Basic Materials",
     "industry": "Chemicals"
   },
   "FHE.AX": {
+    "name": "Frontier Energy Limited",
     "sector": "Utilities",
     "industry": "Utilities - Renewable"
   },
   "FHS.AX": {
+    "name": "Freehill Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "FIN.AX": {
+    "name": "Fin Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "FL1.AX": {
+    "name": "First Lithium Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "FLG.AX": {
+    "name": "Flagship Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "FMG.AX": {
+    "name": "Fortescue Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "FML.AX": {
+    "name": "Focus Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "FNR.AX": {
+    "name": "Far Northern Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "FRB.AX": {
+    "name": "Firebird Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "FRS.AX": {
+    "name": "Forrestania Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "FUL.AX": {
+    "name": "Fulcrum Lithium Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "FUN.AX": {
+    "name": "Fortuna Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "FXG.AX": {
+    "name": "Felix Gold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "G11.AX": {
+    "name": "G11 Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "G50.AX": {
+    "name": "G50 Corp Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "G6M.AX": {
+    "name": "Group 6 Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "G88.AX": {
+    "name": "Golden Mile Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GA8.AX": {
+    "name": "GoldArc Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GAL.AX": {
+    "name": "Galileo Mining Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GBE.AX": {
+    "name": "Globe Metals & Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GBM.AX": {
+    "name": "GBM Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GBR.AX": {
+    "name": "Great Boulder Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GCM.AX": {
+    "name": "Green Critical Minerals Limited",
     "sector": "Utilities",
     "industry": "Utilities - Renewable"
   },
   "GCR.AX": {
+    "name": "Golden Cross Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "GDM.AX": {
+    "name": "Great Divide Mining Ltd",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GDR.AX": {
+    "name": "Golden Dragon Mining Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GED.AX": {
+    "name": "Golden Deeps Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GEN.AX": {
+    "name": "Genmin Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GES.AX": {
+    "name": "Genesis Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GG1.AX": {
+    "name": "Green & Gold Minerals Ltd",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GG8.AX": {
+    "name": "Gorilla Gold Mines Ltd",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GGP.AX": {
+    "name": "Greatland Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GGR.AX": {
+    "name": "GGLOBERES FPO [GGR]",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "GHM.AX": {
+    "name": "GOLDHORSE CDI 1:1 [GHM]",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GIB.AX": {
+    "name": "Gibb River Diamonds Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "GL1.AX": {
+    "name": "Global Lithium Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GLN.AX": {
+    "name": "Galan Lithium Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GMD.AX": {
+    "name": "Genesis Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GML.AX": {
+    "name": "Gateway Mining Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GMN.AX": {
+    "name": "Gold Mountain Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GNG.AX": {
+    "name": "GR Engineering Services Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GNM.AX": {
+    "name": "Great Northern Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GPR.AX": {
+    "name": "Geopacific Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GR8.AX": {
+    "name": "GREAT DIRT FPO [GR8]",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GRE.AX": {
+    "name": "GreenTech Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GRL.AX": {
+    "name": "Godolphin Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "GRR.AX": {
+    "name": "Grange Resources Limited",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "GRX.AX": {
+    "name": "GreenX Metals Limited",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "GSM.AX": {
+    "name": "Golden State Mining Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GSN.AX": {
+    "name": "Great Southern Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "GT1.AX": {
+    "name": "Green Technology Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GT3.AX": {
+    "name": "Green360 Technologies LImited",
     "sector": "Industrials",
     "industry": "Conglomerates"
   },
   "GTE.AX": {
+    "name": "Great Western Exploration Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GUL.AX": {
+    "name": "Gullewa Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "GW1.AX": {
+    "name": "Greenwing Resources Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "GWR.AX": {
+    "name": "GWR Group Limited",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "HAR.AX": {
+    "name": "Haranga Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "HAS.AX": {
+    "name": "Hastings Technology Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "HAV.AX": {
+    "name": "Havilah Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "HAW.AX": {
+    "name": "Hawthorn Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "HCH.AX": {
+    "name": "Hot Chili Limited",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "HFR.AX": {
+    "name": "Highfield Resources Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs"
   },
   "HGO.AX": {
+    "name": "Hillgrove Resources Limited",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "HIO.AX": {
+    "name": "Hawsons Iron Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "HLX.AX": {
+    "name": "Helix Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "HMG.AX": {
+    "name": "Hamelin Gold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "HMX.AX": {
+    "name": "Hammer Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "HOR.AX": {
+    "name": "Horseshoe Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "HRE.AX": {
+    "name": "Heavy Rare Earths Limited",
     "sector": "Energy",
     "industry": "Uranium"
   },
   "HRN.AX": {
+    "name": "Horizon Gold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "HRZ.AX": {
+    "name": "Horizon Minerals Ltd",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "HTM.AX": {
+    "name": "High-Tech Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "HVY.AX": {
+    "name": "Heavy Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "HWK.AX": {
+    "name": "Hawk Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "HZR.AX": {
+    "name": "Hazer Group Limited",
     "sector": "Basic Materials",
     "industry": "Chemicals"
   },
   "I88.AX": {
+    "name": "INFINI RES FPO [I88]",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "IBR.AX": {
+    "name": "Iron Bear Resources Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ICL.AX": {
+    "name": "Iceni Gold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "IDA.AX": {
+    "name": "Indiana Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "IGO.AX": {
+    "name": "IGO Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ILT.AX": {
+    "name": "Iltani Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "ILU.AX": {
+    "name": "Iluka Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "IMA.AX": {
+    "name": "Image Resources NL",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "IMD.AX": {
+    "name": "Imdex Limited",
     "sector": "Industrials",
     "industry": "Farm & Heavy Construction Machinery"
   },
   "IMI.AX": {
+    "name": "Infinity Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "IND.AX": {
+    "name": "Industrial Minerals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "INF.AX": {
+    "name": "Infinity Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "INR.AX": {
+    "name": "ioneer Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ION.AX": {
+    "name": "Iondrive Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "IPT.AX": {
+    "name": "Impact Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "IPX.AX": {
+    "name": "IperionX Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "IR1.AX": {
+    "name": "IRIS Metals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "IRD.AX": {
+    "name": "Iron Road Limited",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "ITM.AX": {
+    "name": "iTech Minerals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "IVR.AX": {
+    "name": "Investigator Silver Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "IXR.AX": {
+    "name": "Ionic Rare Earths Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "JAL.AX": {
+    "name": "Jameson Resources Limited",
     "sector": "Basic Materials",
     "industry": "Coking Coal"
   },
   "JAV.AX": {
+    "name": "Javelin Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "JGH.AX": {
+    "name": "Jade Gas Holdings Limited",
     "sector": "Energy",
     "industry": "Oil & Gas E&P"
   },
   "JHX.AX": {
+    "name": "James Hardie Industries plc",
     "sector": "Basic Materials",
     "industry": "Building Materials"
   },
   "JLL.AX": {
+    "name": "Jindalee Lithium Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "JMS.AX": {
+    "name": "Jupiter Mines Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "JNO.AX": {
+    "name": "Juno Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "KAI.AX": {
+    "name": "Pilbara Gold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "KAL.AX": {
+    "name": "Kalgoorlie Gold Mining Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "KAU.AX": {
+    "name": "Kaiser Reef Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "KCC.AX": {
+    "name": "Kincora Copper Limited",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "KCN.AX": {
+    "name": "Kingsgate Consolidated Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "KFM.AX": {
+    "name": "Kingfisher Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "KGL.AX": {
+    "name": "KGL Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "KLI.AX": {
+    "name": "Killi Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "KM1.AX": {
+    "name": "KALIMETALS FPO [KM1]",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "KNB.AX": {
+    "name": "Koonenberry Gold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "KNG.AX": {
+    "name": "Kingsland Minerals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "KNI.AX": {
+    "name": "Kuniko Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "KOB.AX": {
+    "name": "Koba Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "KOR.AX": {
+    "name": "Korab Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "KP2.AX": {
+    "name": "Kore Potash plc",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "KRM.AX": {
+    "name": "Kingsrose Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "KRR.AX": {
+    "name": "King River Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "KSN.AX": {
+    "name": "Kingston Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "KTA.AX": {
+    "name": "Krakatoa Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "KZR.AX": {
+    "name": "Kalamazoo Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "L1M.AX": {
+    "name": "Lightning Minerals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LAT.AX": {
+    "name": "Latitude 66 Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "LCL.AX": {
+    "name": "LCL Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "LCY.AX": {
+    "name": "Legacy Iron Ore Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LDR.AX": {
+    "name": "Lode Resources Ltd",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "LEG.AX": {
+    "name": "Legend Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LEL.AX": {
+    "name": "Lithium Energy Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LEX.AX": {
+    "name": "Lefroy Exploration Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LGM.AX": {
+    "name": "Legacy Minerals Holdings Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LIB.AX": {
+    "name": "LIBERTYMET FPO [LIB]",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LIN.AX": {
+    "name": "Lindian Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LIT.AX": {
+    "name": "Livium Ltd",
     "sector": "Industrials",
     "industry": "Waste Management"
   },
   "LKE.AX": {
+    "name": "Lake Resources NL",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LKY.AX": {
+    "name": "Locksley Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "LLM.AX": {
+    "name": "LOYALMETAL FPO [LLM]",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LM1.AX": {
+    "name": "Leeuwin Metals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LM8.AX": {
+    "name": "Lunnon Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LMG.AX": {
+    "name": "Latrobe Magnesium Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LML.AX": {
+    "name": "Lincoln Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LMS.AX": {
+    "name": "Litchfield Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "LNQ.AX": {
+    "name": "LINQMINERA FPO [LNQ]",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LOT.AX": {
+    "name": "Lotus Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LPM.AX": {
+    "name": "Lithium Plus Minerals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LRD.AX": {
+    "name": "Lord Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LRM.AX": {
+    "name": "Lion Rock Minerals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "LRV.AX": {
+    "name": "Larvotto Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "LSA.AX": {
+    "name": "Lachlan Star Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LSR.AX": {
+    "name": "Lodestar Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "LTR.AX": {
+    "name": "Liontown Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LU7.AX": {
+    "name": "Lithium Universe Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "LYC.AX": {
+    "name": "Lynas Rare Earths Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "M24.AX": {
+    "name": "Mamba Exploration Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "M2M.AX": {
+    "name": "Mt Malcolm Mines NL",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "M2R.AX": {
+    "name": "Miramar Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "M3M.AX": {
+    "name": "M3 Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "M4M.AX": {
+    "name": "Macro Metals Limited",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "M79.AX": {
+    "name": "Mammoth Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "MAG.AX": {
+    "name": "Magmatic Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MAH.AX": {
+    "name": "Macmahon Holdings Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MAN.AX": {
+    "name": "Mandrake Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MAT.AX": {
+    "name": "Matsa Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MAU.AX": {
+    "name": "Magnetic Resources NL",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MAUCA.AX": {
+    "name": "Magnetic Resources NL",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MBG.AX": {
+    "name": "MB Gold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MBK.AX": {
+    "name": "Metal Bank Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MC2.AX": {
+    "name": "MARIMACA CDI 1:1 [MC2]",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "MCO.AX": {
+    "name": "Myeco Group Ltd",
     "sector": "Consumer Cyclical",
     "industry": "Packaging & Containers"
   },
   "MDI.AX": {
+    "name": "Middle Island Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MDX.AX": {
+    "name": "Mindax Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MEG.AX": {
+    "name": "Megado Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MEI.AX": {
+    "name": "Meteoric Resources NL",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MEK.AX": {
+    "name": "Meeka Metals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MEX.AX": {
+    "name": "Minerals Exploration Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MGA.AX": {
+    "name": "MetalsGrove Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MGL.AX": {
+    "name": "Magontec Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MGT.AX": {
+    "name": "Magnetite Mines Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MGTNH.AX": {
+    "name": "Unknown",
     "sector": "Unknown",
     "industry": "Unknown"
   },
   "MGU.AX": {
+    "name": "Magnum Mining and Exploration Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MGX.AX": {
+    "name": "MGX Resources Limited",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "MHK.AX": {
+    "name": "Metal Hawk Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MHM.AX": {
+    "name": "Mount Hope Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "MI6.AX": {
+    "name": "Minerals 260 Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "MIN.AX": {
+    "name": "Mineral Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MIO.AX": {
+    "name": "Macarthur Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MKR.AX": {
+    "name": "Manuka Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "ML8.AX": {
+    "name": "MOONLIGHT FPO [ML8]",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MLG.AX": {
+    "name": "MLG Oz Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MLS.AX": {
+    "name": "Metals Australia Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MLX.AX": {
+    "name": "Metals X Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MM1.AX": {
+    "name": "Midas Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "MM8.AX": {
+    "name": "Medallion Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "MMA.AX": {
+    "name": "Maronan Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "MMI.AX": {
+    "name": "Metro Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MML.AX": {
+    "name": "MCLARENTI FPO [MML]",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MNB.AX": {
+    "name": "Minbos Resources Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs"
   },
   "MOH.AX": {
+    "name": "Moho Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "MOM.AX": {
+    "name": "Moab Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MPK.AX": {
+    "name": "MANY PEAKS FPO [MPK]",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "MQR.AX": {
+    "name": "Marquee Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MRC.AX": {
+    "name": "Mineral Commodities Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MRD.AX": {
+    "name": "Mount Ridley Mines Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MRQ.AX": {
+    "name": "MRG Metals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MRR.AX": {
+    "name": "MinRex Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MRZ.AX": {
+    "name": "Mont Royal Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MSV.AX": {
+    "name": "Mitchell Services Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MTC.AX": {
+    "name": "MetalsTech Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MTH.AX": {
+    "name": "Mithril Silver and Gold Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MTL.AX": {
+    "name": "Mantle Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MTM.AX": {
+    "name": "Metallium Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "MVL.AX": {
+    "name": "Marvel Gold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "MYE.AX": {
+    "name": "Mastermyne Group Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NAG.AX": {
+    "name": "Nagambie Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "NC1.AX": {
+    "name": "NICO Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NEM.AX": {
+    "name": "Newmont Corporation",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "NES.AX": {
+    "name": "Nelson Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "NFL.AX": {
+    "name": "Norfolk Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "NFM.AX": {
+    "name": "New Frontier Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NGX.AX": {
+    "name": "NGX Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NH3.AX": {
+    "name": "NH3CLEAN FPO [NH3]",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NIC.AX": {
+    "name": "Nickel Industries Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NIM.AX": {
+    "name": "Nimy Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NME.AX": {
+    "name": "Nex Metals Explorations Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "NMG.AX": {
+    "name": "New Murchison Gold Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NMR.AX": {
+    "name": "Native Mineral Resources Holdings Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NMT.AX": {
+    "name": "Neometals Ltd",
     "sector": "Industrials",
     "industry": "Waste Management"
   },
   "NNL.AX": {
+    "name": "Nordic Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NPM.AX": {
+    "name": "NewPeak Metals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "NRX.AX": {
+    "name": "Noronex Limited",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "NRZ.AX": {
+    "name": "NeuRizer Ltd.",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs"
   },
   "NSM.AX": {
+    "name": "North Stawell Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "NST.AX": {
+    "name": "Northern Star Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "NTM.AX": {
+    "name": "NT Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "NTU.AX": {
+    "name": "Northern Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NUF.AX": {
+    "name": "Nufarm Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs"
   },
   "NVA.AX": {
+    "name": "Nova Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "NVO.AX": {
+    "name": "Novo Resources Corp.",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "NWM.AX": {
+    "name": "Norwest Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "NXM.AX": {
+    "name": "Nexus Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "NYM.AX": {
+    "name": "Narryer Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "OB1.AX": {
+    "name": "Orbminco Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "OBM.AX": {
+    "name": "Ora Banda Mining Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "OCN.AX": {
+    "name": "Oceana Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "OCT.AX": {
+    "name": "Octava Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "OD6.AX": {
+    "name": "OD6 Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ODE.AX": {
+    "name": "Odessa Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "ODY.AX": {
+    "name": "Odyssey Gold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "OKJ.AX": {
+    "name": "Oakajee Corporation Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "OLY.AX": {
+    "name": "Olympio Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "OM1.AX": {
+    "name": "Omnia Metals Group Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "OMH.AX": {
+    "name": "OM Holdings Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "OMX.AX": {
+    "name": "Orange Minerals NL",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "OR3.AX": {
+    "name": "ORERESOURC FPO [OR3]",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ORA.AX": {
+    "name": "Orora Limited",
     "sector": "Consumer Cyclical",
     "industry": "Packaging & Containers"
   },
   "ORD.AX": {
+    "name": "Ordell Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ORE.AX": {
+    "name": "OREZONE CDI 1:1 [ORE]",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ORI.AX": {
+    "name": "Orica Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "ORN.AX": {
+    "name": "Orion Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ORP.AX": {
+    "name": "Orpheus Uranium Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "OSM.AX": {
+    "name": "Osmond Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "OZM.AX": {
+    "name": "OzAurum Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "OZZ.AX": {
+    "name": "Ozz Resources Limited",
     "sector": "Unknown",
     "industry": "Unknown"
   },
   "PAT.AX": {
+    "name": "Patriot Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PBL.AX": {
+    "name": "Parabellum Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PC2.AX": {
+    "name": "PCGOLDLTD FPO [PC2]",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "PDI.AX": {
+    "name": "Predictive Discovery Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "PEC.AX": {
+    "name": "Perpetual Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PEX.AX": {
+    "name": "Peel Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PFE.AX": {
+    "name": "Pantera Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PGD.AX": {
+    "name": "Peregrine Gold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "PGM.AX": {
+    "name": "Platina Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "PGO.AX": {
+    "name": "Pacgold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "PHO.AX": {
+    "name": "PhosCo Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PIM.AX": {
+    "name": "Pinnacle Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PKO.AX": {
+    "name": "Peako Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "PL3.AX": {
+    "name": "Patagonia Lithium Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PL9.AX": {
+    "name": "Prairie Lithium Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PLA.AX": {
+    "name": "Pacific Lime and Cement Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PLC.AX": {
+    "name": "Premier1 Lithium Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PLG.AX": {
+    "name": "Pearl Gull Iron Limited",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "PLS.AX": {
+    "name": "PLS Group Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PMM.AX": {
+    "name": "Pioneer Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PMT.AX": {
+    "name": "PMET Resources Inc.",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PNM.AX": {
+    "name": "Pacific Nickel Mines Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "PNN.AX": {
+    "name": "Power Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PNR.AX": {
+    "name": "Pantoro Gold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "PNT.AX": {
+    "name": "Panther Metals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "POD.AX": {
+    "name": "Podium Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "POL.AX": {
+    "name": "Polymetals Resources Ltd",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "PPG.AX": {
+    "name": "Pro-Pac Packaging Limited",
     "sector": "Consumer Cyclical",
     "industry": "Packaging & Containers"
   },
   "PPK.AX": {
+    "name": "PPK Group Limited",
     "sector": "Industrials",
     "industry": "Electrical Equipment & Parts"
   },
   "PPY.AX": {
+    "name": "Papyrus Australia Limited",
     "sector": "Consumer Cyclical",
     "industry": "Packaging & Containers"
   },
   "PR1.AX": {
+    "name": "Pure Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PRG.AX": {
+    "name": "PRL Global Ltd.",
     "sector": "Industrials",
     "industry": "Integrated Freight & Logistics"
   },
   "PRN.AX": {
+    "name": "Perenti Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PRU.AX": {
+    "name": "Perseus Mining Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "PRX.AX": {
+    "name": "Prodigy Gold NL",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "PSC.AX": {
+    "name": "Prospect Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PSL.AX": {
+    "name": "Paterson Resources Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PTN.AX": {
+    "name": "Patronus Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "PTR.AX": {
+    "name": "PTR Minerals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "PUR.AX": {
+    "name": "Pursuit Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PVT.AX": {
+    "name": "Pivotal Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "PWN.AX": {
+    "name": "Parkway Corporate Limited",
     "sector": "Industrials",
     "industry": "Pollution & Treatment Controls"
   },
   "PXX.AX": {
+    "name": "PolarX Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "QEM.AX": {
+    "name": "QEM Limited",
     "sector": "Energy",
     "industry": "Oil & Gas E&P"
   },
   "QGL.AX": {
+    "name": "Quantum Graphite Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "QML.AX": {
+    "name": "QMines Limited",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "QPM.AX": {
+    "name": "QPM Energy Limited",
     "sector": "Energy",
     "industry": "Oil & Gas E&P"
   },
   "QXR.AX": {
+    "name": "QX Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "R8R.AX": {
+    "name": "Regener8 Resources NL",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RAG.AX": {
+    "name": "Ragnar Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RAN.AX": {
+    "name": "Range International Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "RAP.AX": {
+    "name": "Raptor Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "RAS.AX": {
+    "name": "Ragusa Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RAU.AX": {
+    "name": "Resouro Strategic Metals Inc.",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RB6.AX": {
+    "name": "Rubix Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "RBR.AX": {
+    "name": "RBR Group Limited",
     "sector": "Industrials",
     "industry": "Specialty Business Services"
   },
   "RBX.AX": {
+    "name": "Resource Base Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RC1.AX": {
+    "name": "Redcastle Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RCM.AX": {
+    "name": "Rapid Critical Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RCR.AX": {
+    "name": "Rincon Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "RDM.AX": {
+    "name": "Red Metal Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RDN.AX": {
+    "name": "Raiden Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "RDS.AX": {
+    "name": "Redstone Resources Limited",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "REC.AX": {
+    "name": "Recharge Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "REE.AX": {
+    "name": "RareX Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "REZ.AX": {
+    "name": "Resources & Energy Group Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RGL.AX": {
+    "name": "Riversgold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RHI.AX": {
+    "name": "Red Hill Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RIE.AX": {
+    "name": "Riedel Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RIL.AX": {
+    "name": "Redivium Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RIM.AX": {
+    "name": "Rimfire Pacific Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "RIO.AX": {
+    "name": "Rio Tinto Group",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RKB.AX": {
+    "name": "ROKEBYRES FPO [RKB]",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RLC.AX": {
+    "name": "Reedy Lagoon Corporation Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RLF.AX": {
+    "name": "RLF AgTech Ltd",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs"
   },
   "RMI.AX": {
+    "name": "Resource Minerals International Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RML.AX": {
+    "name": "Resolution Minerals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RMS.AX": {
+    "name": "Ramelius Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RMX.AX": {
+    "name": "Red Mountain Mining Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RND.AX": {
+    "name": "Rand Mining Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RNU.AX": {
+    "name": "Renascor Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RNX.AX": {
+    "name": "Renegade Exploration Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RON.AX": {
+    "name": "Ronin Resources Ltd",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "RR1.AX": {
+    "name": "Reach Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RRE.AX": {
+    "name": "Right Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RRL.AX": {
+    "name": "Regis Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RRR.AX": {
+    "name": "Revolver Resources Holdings Ltd",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "RSG.AX": {
+    "name": "Resolute Mining Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RTG.AX": {
+    "name": "RTG Mining Inc.",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RTR.AX": {
+    "name": "Rumble Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RVT.AX": {
+    "name": "Richmond Vanadium Technology Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RWD.AX": {
+    "name": "Reward Minerals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "RXL.AX": {
+    "name": "Rox Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "RXR.AX": {
+    "name": "Robex Resources Inc",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "S2R.AX": {
+    "name": "S2 Resources Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "S32.AX": {
+    "name": "South32 Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SBM.AX": {
+    "name": "St Barbara Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SBR.AX": {
+    "name": "Sabre Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SCN.AX": {
+    "name": "Scorpion Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "SDV.AX": {
+    "name": "SciDev Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "SER.AX": {
+    "name": "Strategic Energy Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SFM.AX": {
+    "name": "Santa Fe Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SFR.AX": {
+    "name": "Sandfire Resources Limited",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "SFX.AX": {
+    "name": "Sheffield Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SGA.AX": {
+    "name": "Sarytogan Graphite Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SGM.AX": {
+    "name": "Sims Limited",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "SGQ.AX": {
+    "name": "St George Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SHN.AX": {
+    "name": "Sunshine Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SKM.AX": {
+    "name": "Skylark Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SKY.AX": {
+    "name": "Sky Metals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SLA.AX": {
+    "name": "Solara Minerals Ltd",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "SLB.AX": {
+    "name": "Stelar Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SLM.AX": {
+    "name": "Solis Minerals Ltd.",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "SLS.AX": {
+    "name": "Solstice Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SLZ.AX": {
+    "name": "Sultan Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SMI.AX": {
+    "name": "Santana Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "SMM.AX": {
+    "name": "Somerset Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SMR.AX": {
+    "name": "Stanmore Resources Limited",
     "sector": "Basic Materials",
     "industry": "Coking Coal"
   },
   "SMS.AX": {
+    "name": "Star Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SMX.AX": {
+    "name": "Strata Minerals Limited",
     "sector": "Unknown",
     "industry": "Unknown"
   },
   "SNG.AX": {
+    "name": "Siren Gold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SNM.AX": {
+    "name": "SENTINEL FPO [SNM]",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SNX.AX": {
+    "name": "Sierra Nevada Gold Inc.",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SPD.AX": {
+    "name": "Southern Palladium Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "SPN.AX": {
+    "name": "Sparc Technologies Limited",
     "sector": "Basic Materials",
     "industry": "Specialty Chemicals"
   },
   "SPQ.AX": {
+    "name": "Superior Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SQX.AX": {
+    "name": "SQX Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SRK.AX": {
+    "name": "Strike Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SRL.AX": {
+    "name": "Sunrise Energy Metals Limited",
     "sector": "Industrials",
     "industry": "Pollution & Treatment Controls"
   },
   "SRN.AX": {
+    "name": "Surefire Resources NL",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SRR.AX": {
+    "name": "Sarama Resources Ltd",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SRT.AX": {
+    "name": "Strata Investment Holdings Plc",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SRZ.AX": {
+    "name": "Stellar Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SS1.AX": {
+    "name": "SUN SILVER FPO [SS1]",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "STK.AX": {
+    "name": "Strickland Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "STM.AX": {
+    "name": "Sunstone Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "STN.AX": {
+    "name": "Saturn Metals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SUH.AX": {
+    "name": "Southern Hemisphere Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SVG.AX": {
+    "name": "Savannah Goldfields Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SVL.AX": {
+    "name": "Silver Mines Limited",
     "sector": "Consumer Defensive",
     "industry": "Farm Products"
   },
   "SVM.AX": {
+    "name": "Sovereign Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SVY.AX": {
+    "name": "Stavely Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "SX2.AX": {
+    "name": "Southern Cross Gold Consolidated Ltd.",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "SYR.AX": {
+    "name": "Syrah Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "T88.AX": {
+    "name": "Taiton Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "TAM.AX": {
+    "name": "Tanami Gold NL",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TAR.AX": {
+    "name": "Taruga Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "TAS.AX": {
+    "name": "Tasman Resources Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TAT.AX": {
+    "name": "Tartana Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TBR.AX": {
+    "name": "Tribune Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TCG.AX": {
+    "name": "Turaco Gold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TEM.AX": {
+    "name": "Tempest Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TG1.AX": {
+    "name": "TechGen Metals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "TG6.AX": {
+    "name": "TG Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "TGH.AX": {
+    "name": "Terragen Holdings Limited",
     "sector": "Basic Materials",
     "industry": "Agricultural Inputs"
   },
   "TGM.AX": {
+    "name": "Theta Gold Mines Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TGN.AX": {
+    "name": "Tungsten Mining NL",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "THR.AX": {
+    "name": "Thor Energy Plc",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TIO.AX": {
+    "name": "TEMASRES CDI 1:1 [TIO]",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TKM.AX": {
+    "name": "Trek Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TLG.AX": {
+    "name": "Talga Group Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TLM.AX": {
+    "name": "Talisman Mining Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "TMB.AX": {
+    "name": "Tambourah Metals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TMS.AX": {
+    "name": "Tennant Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TMX.AX": {
+    "name": "Terrain Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TNC.AX": {
+    "name": "True North Copper Limited",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "TOK.AX": {
+    "name": "Tolu Minerals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "TON.AX": {
+    "name": "Triton Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TOR.AX": {
+    "name": "Torque Metals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TR2.AX": {
+    "name": "TALIRES FPO [TR2]",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "TRE.AX": {
+    "name": "Toubani Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TRM.AX": {
+    "name": "Truscott Mining Corporation Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TSK.AX": {
+    "name": "Tusker Minerals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TSL.AX": {
+    "name": "Titanium Sands Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TSO.AX": {
+    "name": "Tesoro Gold Ltd",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TSR.AX": {
-    "sector": "Unknown",
-    "industry": "Unknown"
+    "name": "Turnstone Resources Ltd",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining"
   },
   "TTM.AX": {
+    "name": "Titan Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TTT.AX": {
+    "name": "Titomic Limited",
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery"
   },
   "TVN.AX": {
+    "name": "Tivan Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TXR.AX": {
+    "name": "TalonX Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "TYX.AX": {
+    "name": "Tyranna Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "TZN.AX": {
+    "name": "Terramin Australia Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "UM1.AX": {
+    "name": "UNITYMETAL FPO [UM1]",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "USC.AX": {
+    "name": "US1 Critical Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "USL.AX": {
+    "name": "Unico Silver Limited",
     "sector": "Basic Materials",
     "industry": "Silver"
   },
   "USM.AX": {
+    "name": "Union Star Metals Ltd",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "VAR.AX": {
+    "name": "Variscan Mines Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VAU.AX": {
+    "name": "VLTMINLTD FPO [VAU]",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "VBX.AX": {
+    "name": "VBXLIMITED FPO [VBX]",
     "sector": "Basic Materials",
     "industry": "Aluminum"
   },
   "VHM.AX": {
+    "name": "VHM Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VKA.AX": {
+    "name": "Viking Mines Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "VMC.AX": {
+    "name": "Venus Metals Corporation Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VML.AX": {
+    "name": "Vital Metals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VMM.AX": {
+    "name": "Viridis Mining and Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VMS.AX": {
+    "name": "Venari Minerals NL",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VR8.AX": {
+    "name": "Vanadium Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VRC.AX": {
+    "name": "Volt Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VRL.AX": {
+    "name": "Verity Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VRX.AX": {
+    "name": "VRX Silica Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VSL.AX": {
+    "name": "Vulcan Steel Limited",
     "sector": "Basic Materials",
     "industry": "Steel"
   },
   "VTA.AX": {
+    "name": "Vita Resources NL",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "VTM.AX": {
+    "name": "Victory Metals Limited",
     "sector": "Unknown",
     "industry": "Unknown"
   },
   "VTX.AX": {
+    "name": "Vertex Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "VUL.AX": {
+    "name": "Vulcan Energy Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "VYS.AX": {
+    "name": "Vysarn Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction"
   },
   "WA1.AX": {
+    "name": "WA1 Resources Ltd",
     "sector": "Basic Materials",
     "industry": "Copper"
   },
   "WAF.AX": {
+    "name": "West African Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "WAK.AX": {
+    "name": "WA Kaolin Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "WC1.AX": {
+    "name": "West Cobar Metals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "WC8.AX": {
+    "name": "Wildcat Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "WCE.AX": {
+    "name": "West Coast Silver Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "WCN.AX": {
+    "name": "White Cliff Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "WGN.AX": {
+    "name": "Wagners Holding Company Limited",
     "sector": "Basic Materials",
     "industry": "Building Materials"
   },
   "WGR.AX": {
+    "name": "Western Gold Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "WGX.AX": {
+    "name": "Westgold Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "WIA.AX": {
+    "name": "WIA Gold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "WIN.AX": {
+    "name": "WIN Metals Ltd",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "WMG.AX": {
+    "name": "Western Mines Group Ltd",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "WR1.AX": {
+    "name": "Winsome Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "WRX.AX": {
+    "name": "Western Ridge Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "WSI.AX": {
+    "name": "WestStar Industrial Limited",
     "sector": "Industrials",
     "industry": "Engineering & Construction"
   },
   "WSR.AX": {
+    "name": "Westar Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "WTM.AX": {
+    "name": "Waratah Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "WWI.AX": {
+    "name": "West Wits Mining Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "WYX.AX": {
+    "name": "Western Yilgarn NL",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "XPD.AX": {
+    "name": "Xpedra Resources Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "XRA.AX": {
+    "name": "Xenora Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "YAR.AX": {
+    "name": "Yari Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "YRL.AX": {
+    "name": "Yandal Resources Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "YUG.AX": {
+    "name": "YUGOMTSLTD FPO [YUG]",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ZAG.AX": {
+    "name": "Zuleika Gold Limited",
     "sector": "Basic Materials",
     "industry": "Gold"
   },
   "ZEO.AX": {
+    "name": "Zeotech Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ZIM.AX": {
+    "name": "Zimplats Holdings Limited",
     "sector": "Basic Materials",
     "industry": "Other Precious Metals & Mining"
   },
   "ZMI.AX": {
+    "name": "Zinc of Ireland NL",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ZNC.AX": {
+    "name": "Zenith Minerals Limited",
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining"
   },
   "ZNO.AX": {
+    "name": "Zoono Group Limited",
     "sector": "Consumer Defensive",
     "industry": "Household & Personal Products"
   }
