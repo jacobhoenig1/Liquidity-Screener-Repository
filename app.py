@@ -1,195 +1,45 @@
-import json
 import streamlit as st
 import pandas as pd
-import yfinance as yf
-from pathlib import Path
 from datetime import datetime
 
-# ---------------------------------------------------------------------------
-# Config
-# ---------------------------------------------------------------------------
+from data import (
+    PERIODS,
+    current_refresh_bucket,
+    fetch_data,
+    force_refresh,
+    format_adtv,
+    format_dollar,
+    format_volume,
+    load_ticker_info,
+    load_tickers,
+)
+
 st.set_page_config(page_title="Liquidity Screener", page_icon="💧", layout="wide")
-
-APP_DIR = Path(__file__).parent
-CSV_PATH = APP_DIR / "Healthcare Cos.csv"
-TICKER_INFO_PATH = APP_DIR / "ticker_info.json"
-PERIODS = {"5d ADTV": 5, "21d ADTV": 21, "63d ADTV": 63}
-CHANGE_PERIODS = {"1W % Change": 5, "1M % Change": 21, "3M % Change": 63}
-HISTORY_DAYS = 100  # calendar days to fetch (~70 trading days)
-
-
-# ---------------------------------------------------------------------------
-# Data helpers
-# ---------------------------------------------------------------------------
-def load_tickers() -> list[str]:
-    df = pd.read_csv(CSV_PATH)
-    return df["Companies"].tolist()
-
-
-def load_ticker_info() -> dict:
-    if TICKER_INFO_PATH.exists():
-        with open(TICKER_INFO_PATH) as f:
-            return json.load(f)
-    return {}
-
-
-def format_dollar(val):
-    """Format a number as $X.XK / $X.XM / $X.XB."""
-    if pd.isna(val) or val == 0:
-        return "—"
-    abs_val = abs(val)
-    if abs_val >= 1_000_000_000:
-        return f"${val / 1_000_000_000:,.1f}B"
-    if abs_val >= 1_000_000:
-        return f"${val / 1_000_000:,.1f}M"
-    if abs_val >= 1_000:
-        return f"${val / 1_000:,.1f}K"
-    return f"${val:,.0f}"
-
-
-def format_adtv(val):
-    """Format ADTV: $X.XM if >= $1M, $X.XK if < $1M."""
-    if pd.isna(val) or val == 0:
-        return "—"
-    if abs(val) >= 1_000_000:
-        return f"${val / 1_000_000:.1f}M"
-    return f"${val / 1_000:.1f}K"
-
-
-def format_volume(val):
-    if pd.isna(val) or val == 0:
-        return "—"
-    if val >= 1_000_000:
-        return f"{val / 1_000_000:,.1f}M"
-    if val >= 1_000:
-        return f"{val / 1_000:,.1f}K"
-    return f"{val:,.0f}"
-
-
-CHUNK_SIZE = 25  # download in small batches to avoid timeouts
-
-
-def _download_chunk(tickers: list[str]) -> pd.DataFrame:
-    """Download a chunk of tickers and return raw DataFrame."""
-    return yf.download(
-        tickers,
-        period=f"{HISTORY_DAYS}d",
-        group_by="ticker",
-        threads=True,
-        progress=False,
-    )
-
-
-def _extract_rows(raw, tickers: list[str], ticker_info: dict) -> list[dict]:
-    """Extract ADTV rows from a yfinance download result."""
-    rows = []
-    for yahoo_tick in tickers:
-        asx_tick = yahoo_tick.replace(".AX", "")
-        try:
-            if len(tickers) == 1:
-                df = raw.copy()
-            else:
-                df = raw[yahoo_tick].copy()
-            df = df.dropna(subset=["Close", "Volume"])
-            if df.empty:
-                continue
-
-            traded_value = df["Close"] * df["Volume"]
-            last_price = df["Close"].iloc[-1]
-            last_volume = df["Volume"].iloc[-1]
-
-            ticker_obj = yf.Ticker(yahoo_tick)
-
-            try:
-                market_cap = ticker_obj.fast_info.get("marketCap", None)
-            except Exception:
-                market_cap = None
-
-            total_cash = None
-            try:
-                total_cash = ticker_obj.info.get("totalCash", None)
-            except Exception:
-                pass
-
-            if total_cash is None:
-                try:
-                    bs = ticker_obj.quarterly_balance_sheet
-                    if bs is not None and not bs.empty:
-                        for key in (
-                            "Cash Cash Equivalents And Short Term Investments",
-                            "Cash And Cash Equivalents",
-                            "Cash",
-                        ):
-                            if key in bs.index:
-                                val = bs.loc[key].iloc[0]
-                                if pd.notna(val):
-                                    total_cash = float(val)
-                                    break
-                except Exception:
-                    pass
-
-            info = ticker_info.get(yahoo_tick, {})
-            row = {
-                "Ticker": asx_tick,
-                "Company": info.get("name", "Unknown"),
-                "Sector": info.get("sector", "Unknown"),
-                "Industry": info.get("industry", "Unknown"),
-                "Market Cap": market_cap,
-                "Cash": total_cash,
-                "Last Price": last_price,
-                "Volume": last_volume,
-            }
-            for label, days in PERIODS.items():
-                recent = traded_value.tail(days)
-                row[label] = recent.mean() if len(recent) > 0 else 0
-            for label, days in CHANGE_PERIODS.items():
-                if len(df) > days:
-                    prev_price = df["Close"].iloc[-(days + 1)]
-                    row[label] = ((last_price - prev_price) / prev_price) * 100
-                else:
-                    row[label] = None
-            rows.append(row)
-        except Exception:
-            continue
-    return rows
-
-
-@st.cache_data(ttl=3600, show_spinner=False)
-def fetch_data(tickers_yahoo: list[str], ticker_info: dict) -> pd.DataFrame:
-    """Download price history in chunks and compute ADTV metrics."""
-    all_rows = []
-    chunks = [tickers_yahoo[i:i + CHUNK_SIZE] for i in range(0, len(tickers_yahoo), CHUNK_SIZE)]
-    progress = st.progress(0, text="Downloading stock data…")
-
-    for idx, chunk in enumerate(chunks):
-        try:
-            raw = _download_chunk(chunk)
-            all_rows.extend(_extract_rows(raw, chunk, ticker_info))
-        except Exception:
-            pass
-        progress.progress((idx + 1) / len(chunks), text=f"Downloaded {min((idx + 1) * CHUNK_SIZE, len(tickers_yahoo))}/{len(tickers_yahoo)} stocks…")
-
-    progress.empty()
-    return pd.DataFrame(all_rows)
-
 
 # ---------------------------------------------------------------------------
 # UI
 # ---------------------------------------------------------------------------
-st.title("Liquidity Screener")
+title_col, refresh_col = st.columns([6, 1])
+title_col.title("Liquidity Screener")
+if refresh_col.button("Refresh now", use_container_width=True):
+    force_refresh()
 
 yahoo_tickers = load_tickers()
 ticker_info = load_ticker_info()
+bucket = current_refresh_bucket()
 
 with st.spinner(f"Fetching data for {len(yahoo_tickers)} stocks…"):
-    data = fetch_data(yahoo_tickers, ticker_info)
+    data = fetch_data(yahoo_tickers, ticker_info, bucket)
 
 if data.empty:
     st.error("No data returned. Check your internet connection or try again.")
     st.stop()
 
 now = datetime.now().strftime("%d %b %Y  %H:%M")
-st.caption(f"Data refreshed: **{now}**  ·  {len(data)} stocks loaded  ·  Cached for 1 hour")
+st.caption(
+    f"Data refreshed: **{now}**  ·  {len(data)} stocks loaded  ·  "
+    f"Auto-refreshes after 5pm AEST (bucket: {bucket})"
+)
 
 # --- Sidebar filters ---
 st.sidebar.header("Filters")
