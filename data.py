@@ -15,6 +15,7 @@ PERIODS = {"5d ADTV": 5, "21d ADTV": 21, "63d ADTV": 63}
 CHANGE_PERIODS = {"1W % Change": 5, "1M % Change": 21, "3M % Change": 63}
 HISTORY_DAYS = 100  # calendar days to fetch (~70 trading days)
 CHUNK_SIZE = 25
+MAX_MARKET_CAP = 3_000_000_000
 
 
 # ---------------------------------------------------------------------------
@@ -203,7 +204,10 @@ def fetch_data(tickers_yahoo: list[str], ticker_info: dict, refresh_bucket: str)
         )
 
     progress.empty()
-    return pd.DataFrame(all_rows)
+    df = pd.DataFrame(all_rows)
+    if not df.empty:
+        df = df[df["Market Cap"].isna() | (df["Market Cap"] <= MAX_MARKET_CAP)]
+    return df.reset_index(drop=True)
 
 
 def force_refresh():
