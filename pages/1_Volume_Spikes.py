@@ -52,7 +52,7 @@ pop_threshold = st.sidebar.slider("Price-pop threshold (%)", 0, 50, 10)
 
 st.sidebar.divider()
 search = st.sidebar.text_input("Search ticker", "").upper()
-sector_options = ["All", "Basic Materials", "Healthcare", "Technology"]
+sector_options = ["All"] + sorted(data["Sector"].dropna().unique().tolist())
 selected_sector = st.sidebar.selectbox("Sector", sector_options)
 
 # --- Compute spike multiple ---
