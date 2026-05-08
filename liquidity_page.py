@@ -45,7 +45,7 @@ st.caption(
 st.sidebar.header("Filters")
 search = st.sidebar.text_input("Search ticker", "").upper()
 
-sector_options = ["Basic Materials", "Healthcare", "Technology"]
+sector_options = sorted(data["Sector"].dropna().unique().tolist())
 selected_sector = st.sidebar.selectbox("Sector", sector_options)
 
 adtv_col = st.sidebar.selectbox("Filter ADTV by", list(PERIODS.keys()), index=1)
