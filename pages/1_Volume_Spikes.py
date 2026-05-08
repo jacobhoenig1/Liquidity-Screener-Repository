@@ -93,12 +93,6 @@ if filtered.empty:
     st.info("No tickers match the current spike criteria. Try lowering the spike multiple or min traded value.")
     st.stop()
 
-# --- Summary metrics ---
-m1, m2, m3 = st.columns(3)
-m1.metric("Spikes shown", len(filtered))
-m2.metric("Median spike multiple", f"{filtered['Spike Multiple'].median():.1f}x")
-m3.metric("Pops on volume", int((filtered["Pop"] != "").sum()))
-
 # --- Display table ---
 TABLE_COLS = [
     "Pop", "Ticker", "Company", "Sector",
