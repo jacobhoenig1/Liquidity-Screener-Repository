@@ -51,7 +51,7 @@ search = st.sidebar.text_input("Search ticker", "").upper()
 
 ALLOWED_SECTORS = {"Energy", "Healthcare", "Basic Materials", "Technology"}
 available_sectors = set(data["Sector"].dropna().unique()) & ALLOWED_SECTORS
-sector_options = sorted(available_sectors)
+sector_options = ["All"] + sorted(available_sectors)
 selected_sector = st.sidebar.selectbox("Sector", sector_options)
 
 adtv_col = st.sidebar.selectbox("Filter ADTV by", list(PERIODS.keys()), index=1)
@@ -63,7 +63,10 @@ min_adtv = st.sidebar.number_input(
 filtered = data.copy()
 if search:
     filtered = filtered[filtered["Ticker"].str.contains(search, na=False)]
-filtered = filtered[filtered["Sector"] == selected_sector]
+if selected_sector != "All":
+    filtered = filtered[filtered["Sector"] == selected_sector]
+else:
+    filtered = filtered[filtered["Sector"].isin(ALLOWED_SECTORS)]
 filtered = filtered[filtered[adtv_col] >= min_adtv]
 
 # --- Sort by 21d ADTV descending by default ---
