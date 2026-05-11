@@ -35,10 +35,6 @@ if data.empty:
     st.error("No data returned. Check your internet connection or try again.")
     st.stop()
 
-# Exclude mega-caps: keep companies at or below $5B (and unknown market caps).
-MAX_MARKET_CAP = 5_000_000_000
-data = data[(data["Market Cap"] <= MAX_MARKET_CAP) | data["Market Cap"].isna()]
-
 now = datetime.now().strftime("%d %b %Y  %H:%M")
 st.caption(
     f"Data refreshed: **{now}**  ·  {len(data)} stocks loaded  ·  "
