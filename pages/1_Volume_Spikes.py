@@ -32,6 +32,10 @@ if data.empty:
     st.error("No data returned. Check your internet connection or try again.")
     st.stop()
 
+# Exclude mega-caps: keep companies at or below $5B (and unknown market caps).
+MAX_MARKET_CAP = 5_000_000_000
+data = data[(data["Market Cap"] <= MAX_MARKET_CAP) | data["Market Cap"].isna()]
+
 # --- Sidebar controls ---
 st.sidebar.header("Spike filters")
 
@@ -52,7 +56,7 @@ pop_threshold = st.sidebar.slider("Price-pop threshold (%)", 0, 50, 10)
 
 st.sidebar.divider()
 search = st.sidebar.text_input("Search ticker", "").upper()
-sector_options = ["All", "Basic Materials", "Healthcare", "Technology"]
+sector_options = ["All", "Basic Materials", "Energy", "Healthcare", "Technology"]
 selected_sector = st.sidebar.selectbox("Sector", sector_options)
 
 # --- Compute spike multiple ---
