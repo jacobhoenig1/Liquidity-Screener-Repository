@@ -1,5 +1,5 @@
 import json
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -17,7 +17,8 @@ CHANGE_PERIODS = {"1W % Change": 5, "1M % Change": 21, "3M % Change": 63}
 HISTORY_DAYS = 100  # calendar days to fetch (~70 trading days)
 CHUNK_SIZE = 25
 MAX_MARKET_CAP = 5_000_000_000  # exclude mega-caps from the screener
-METADATA_WORKERS = 15  # threads for per-ticker fast_info / .info calls
+METADATA_WORKERS = 32  # threads for per-ticker fast_info calls
+DOWNLOAD_WORKERS = 5  # concurrent yf.download chunk requests
 
 
 # ---------------------------------------------------------------------------
@@ -104,31 +105,6 @@ def _fetch_market_cap(yahoo_tick: str):
         return None
 
 
-def _fetch_total_cash(yahoo_tick: str):
-    ticker_obj = yf.Ticker(yahoo_tick)
-    try:
-        cash = ticker_obj.info.get("totalCash", None)
-    except Exception:
-        cash = None
-    if cash is not None:
-        return cash
-    try:
-        bs = ticker_obj.quarterly_balance_sheet
-        if bs is not None and not bs.empty:
-            for key in (
-                "Cash Cash Equivalents And Short Term Investments",
-                "Cash And Cash Equivalents",
-                "Cash",
-            ):
-                if key in bs.index:
-                    val = bs.loc[key].iloc[0]
-                    if pd.notna(val):
-                        return float(val)
-    except Exception:
-        pass
-    return None
-
-
 def _build_price_row(yahoo_tick: str, df: pd.DataFrame, ticker_info: dict) -> dict | None:
     df = df.dropna(subset=["Close", "Volume"])
     if df.empty:
@@ -153,7 +129,6 @@ def _build_price_row(yahoo_tick: str, df: pd.DataFrame, ticker_info: dict) -> di
         "Sector": info.get("sector", "Unknown"),
         "Industry": info.get("industry", "Unknown"),
         "Market Cap": None,
-        "Cash": None,
         "Last Price": last_price,
         "Volume": last_volume,
         "Last Session Date": last_session_date,
@@ -172,70 +147,65 @@ def _build_price_row(yahoo_tick: str, df: pd.DataFrame, ticker_info: dict) -> di
     return row
 
 
-def _extract_rows(raw, tickers: list[str], ticker_info: dict) -> list[dict]:
-    # Phase 1: build rows from already-downloaded price data (no network).
-    pending: list[tuple[str, dict]] = []
-    for yahoo_tick in tickers:
+def _download_and_build(chunk: list[str], ticker_info: dict) -> list[tuple[str, dict]]:
+    """Download one chunk of price history and build rows (no metadata calls)."""
+    raw = _download_chunk(chunk)
+    rows: list[tuple[str, dict]] = []
+    for yahoo_tick in chunk:
         try:
-            df = raw.copy() if len(tickers) == 1 else raw[yahoo_tick].copy()
+            df = raw.copy() if len(chunk) == 1 else raw[yahoo_tick].copy()
             row = _build_price_row(yahoo_tick, df, ticker_info)
             if row is not None:
-                pending.append((yahoo_tick, row))
+                rows.append((yahoo_tick, row))
         except Exception:
             continue
-
-    if not pending:
-        return []
-
-    # Phase 2: fetch market cap in parallel; drop mega-caps before the slower call.
-    pending_ticks = [t for t, _ in pending]
-    with ThreadPoolExecutor(max_workers=METADATA_WORKERS) as ex:
-        market_caps = list(ex.map(_fetch_market_cap, pending_ticks))
-
-    survivors: list[tuple[str, dict]] = []
-    for (yahoo_tick, row), cap in zip(pending, market_caps):
-        if cap is not None and cap > MAX_MARKET_CAP:
-            continue
-        row["Market Cap"] = cap
-        survivors.append((yahoo_tick, row))
-
-    if not survivors:
-        return []
-
-    # Phase 3: fetch cash in parallel for survivors only (the heaviest call).
-    survivor_ticks = [t for t, _ in survivors]
-    with ThreadPoolExecutor(max_workers=METADATA_WORKERS) as ex:
-        cash_values = list(ex.map(_fetch_total_cash, survivor_ticks))
-
-    for (_, row), cash in zip(survivors, cash_values):
-        row["Cash"] = cash
-
-    return [row for _, row in survivors]
+    return rows
 
 
 @st.cache_data(ttl=3600, show_spinner=False)
 def fetch_data(tickers_yahoo: list[str], ticker_info: dict, refresh_bucket: str) -> pd.DataFrame:
-    """Download price history in chunks and compute all metrics.
+    """Download price history in parallel chunks and compute all metrics.
 
     `refresh_bucket` participates in the cache key so the cache invalidates
     automatically after each 17:00 Australia/Sydney boundary. The argument is
     not used inside the function body.
     """
     _ = refresh_bucket
-    all_rows = []
     chunks = [tickers_yahoo[i:i + CHUNK_SIZE] for i in range(0, len(tickers_yahoo), CHUNK_SIZE)]
     progress = st.progress(0, text="Downloading stock data…")
 
-    for idx, chunk in enumerate(chunks):
-        try:
-            raw = _download_chunk(chunk)
-            all_rows.extend(_extract_rows(raw, chunk, ticker_info))
-        except Exception:
-            pass
-        progress.progress(
-            (idx + 1) / len(chunks),
-            text=f"Downloaded {min((idx + 1) * CHUNK_SIZE, len(tickers_yahoo))}/{len(tickers_yahoo)} stocks…",
-        )
+    # Phase 1: download price history for all chunks concurrently.
+    pending: list[tuple[str, dict]] = []
+    done = 0
+    with ThreadPoolExecutor(max_workers=DOWNLOAD_WORKERS) as ex:
+        futures = [ex.submit(_download_and_build, chunk, ticker_info) for chunk in chunks]
+        for fut in as_completed(futures):
+            try:
+                pending.extend(fut.result())
+            except Exception:
+                pass
+            done += 1
+            progress.progress(
+                done / len(chunks) * 0.7,
+                text=f"Downloaded {min(done * CHUNK_SIZE, len(tickers_yahoo))}/{len(tickers_yahoo)} stocks…",
+            )
+
+    if not pending:
+        progress.empty()
+        return pd.DataFrame()
+
+    # Phase 2: fetch market caps in parallel and drop mega-caps.
+    progress.progress(0.7, text=f"Fetching market caps for {len(pending)} stocks…")
+    pending_ticks = [t for t, _ in pending]
+    with ThreadPoolExecutor(max_workers=METADATA_WORKERS) as ex:
+        market_caps = list(ex.map(_fetch_market_cap, pending_ticks))
+
+    all_rows = []
+    for (_, row), cap in zip(pending, market_caps):
+        if cap is not None and cap > MAX_MARKET_CAP:
+            continue
+        row["Market Cap"] = cap
+        all_rows.append(row)
 
     progress.empty()
     return pd.DataFrame(all_rows)

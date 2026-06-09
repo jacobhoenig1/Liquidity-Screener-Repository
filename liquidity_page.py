@@ -8,7 +8,6 @@ from data import (
     fetch_data,
     force_refresh,
     format_adtv,
-    format_dollar,
     format_volume,
     load_ticker_info,
     load_tickers,
@@ -45,8 +44,7 @@ st.caption(
 st.sidebar.header("Filters")
 search = st.sidebar.text_input("Search ticker", "").upper()
 
-ALLOWED_SECTORS = {"Energy", "Healthcare", "Basic Materials", "Technology"}
-available_sectors = set(data["Sector"].dropna().unique()) & ALLOWED_SECTORS
+available_sectors = set(data["Sector"].dropna().unique())
 sector_options = ["All"] + sorted(available_sectors)
 selected_sector = st.sidebar.selectbox("Sector", sector_options)
 
@@ -61,8 +59,6 @@ if search:
     filtered = filtered[filtered["Ticker"].str.contains(search, na=False)]
 if selected_sector != "All":
     filtered = filtered[filtered["Sector"] == selected_sector]
-else:
-    filtered = filtered[filtered["Sector"].isin(ALLOWED_SECTORS)]
 filtered = filtered[filtered[adtv_col] >= min_adtv]
 
 # --- Sort by 21d ADTV descending by default ---
@@ -70,18 +66,13 @@ filtered = filtered.sort_values("21d ADTV", ascending=False).reset_index(drop=Tr
 filtered.index = filtered.index + 1  # 1-based
 
 # --- Summary metrics ---
-col1, col2, col3, col4 = st.columns(4)
-col1.metric("Stocks shown", len(filtered))
-col2.metric("Median 5d ADTV", format_dollar(filtered["5d ADTV"].median()))
-col3.metric("Median 21d ADTV", format_dollar(filtered["21d ADTV"].median()))
-col4.metric("Median 63d ADTV", format_dollar(filtered["63d ADTV"].median()))
+st.metric("Stocks shown", len(filtered))
 
 # --- Display table ---
-TABLE_COLS = ["Ticker", "Company", "Industry", "Market Cap", "Cash", "Last Price", "Volume", "1W % Change", "1M % Change", "3M % Change", "5d ADTV", "21d ADTV", "63d ADTV"]
+TABLE_COLS = ["Ticker", "Company", "Industry", "Market Cap", "Last Price", "Volume", "1W % Change", "1M % Change", "3M % Change", "5d ADTV", "21d ADTV", "63d ADTV"]
 
 styled = filtered[TABLE_COLS].style.format({
     "Market Cap": lambda x: f"${x / 1_000_000:,.1f}m" if pd.notna(x) else "—",
-    "Cash": lambda x: f"${x / 1_000_000:,.1f}m" if pd.notna(x) else "—",
     "Last Price": lambda x: f"${x:,.3f}" if pd.notna(x) else "—",
     "Volume": lambda x: format_volume(x),
     "1W % Change": lambda x: f"{x:+.1f}%" if pd.notna(x) else "—",
